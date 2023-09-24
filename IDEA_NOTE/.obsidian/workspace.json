@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OBSIDIAN_OPTION/sort.md",
+                "file": "PRIVATE.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OBSIDIAN_OPTION/sort.md",
+                "file": "PRIVATE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OBSIDIAN_OPTION/sort.md",
+                "file": "PRIVATE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OBSIDIAN_OPTION/sort.md"
+                "file": "PRIVATE.md"
               }
             }
           }
@@ -175,7 +175,7 @@
   "active": "686181c33450b0b9",
   "lastOpenFiles": [
     "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
-    "OBSIDIAN_OPTION/sort.md",
+    "OBSIDIAN_OPTION/sortspec.md.md",
     "PORTFOLIO.md",
     "OBSIDIAN_OPTION",
     "PRIVATE.md",
