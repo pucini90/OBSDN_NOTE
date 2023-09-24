@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5157894d94668fff",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,13 +161,21 @@
                 "file": "PRIVATE.md"
               }
             }
+          },
+          {
+            "id": "1cd7e896e571837d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,10 +185,13 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f78a5cd2453c343",
+  "active": "5157894d94668fff",
   "lastOpenFiles": [
     "PORTFOLIO.md",
     "PRIVATE.md",
