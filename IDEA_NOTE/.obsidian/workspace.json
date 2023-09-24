@@ -169,16 +169,16 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "custom-sort:Toggle custom sorting": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "686181c33450b0b9",
+  "active": "3f78a5cd2453c343",
   "lastOpenFiles": [
+    "PORTFOLIO.md",
+    "PRIVATE.md",
     "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
     "OBSIDIAN_OPTION/sortspec.md.md",
-    "PORTFOLIO.md",
     "OBSIDIAN_OPTION",
-    "PRIVATE.md",
     "최우진.md",
     "개발자.md"
   ]
