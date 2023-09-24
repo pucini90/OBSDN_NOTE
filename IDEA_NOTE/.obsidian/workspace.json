@@ -28,6 +28,16 @@
             }
           },
           {
+            "id": "7527583e632d88df",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "73c5a9b721f48a65",
             "type": "leaf",
             "state": {
@@ -38,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:옵시디#알아보",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STUDY/STUDY001_OBSIDIAN.md",
+                "file": "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STUDY/STUDY001_OBSIDIAN.md",
+                "file": "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STUDY/STUDY001_OBSIDIAN.md"
+                "file": "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md"
               }
             }
           },
@@ -186,8 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c85bf83be2a90ebf",
+  "active": "7527583e632d88df",
   "lastOpenFiles": [
+    "STUDY/STUDY001_OBSIDIAN.md",
+    "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
+    "Excalidraw",
     "STUDY/STUDY002_MARKDOWN.md",
     "STUDY/STUDY003_GIT.md",
     "STUDY/STUDY.md",
@@ -197,7 +210,6 @@
     "PRIVATE.md",
     "무제 파일.canvas",
     "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
-    "STUDY/STUDY001_OBSIDIAN.md",
     "Context/spacesLastSync.log",
     "Context",
     "STUDY",
