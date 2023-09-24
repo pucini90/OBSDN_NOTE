@@ -34,7 +34,11 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "IDEA_NOTE": [
+      "STUDY"
+    ]
+  },
   "expandedSpaces": [
     "/",
     null,
@@ -69,7 +73,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695566541308,
+  "spacesAutoBackupLast": 1695567725945,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
