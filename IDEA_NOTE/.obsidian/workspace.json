@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "73c5a9b721f48a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "686181c33450b0b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OBSIDIAN_OPTION/sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PORTFOLIO.md",
+                "file": "OBSIDIAN_OPTION/sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PORTFOLIO.md",
+                "file": "OBSIDIAN_OPTION/sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PORTFOLIO.md"
+                "file": "OBSIDIAN_OPTION/sort.md"
               }
             }
           }
@@ -143,13 +168,18 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3f78a5cd2453c343",
+  "active": "686181c33450b0b9",
   "lastOpenFiles": [
+    "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
+    "OBSIDIAN_OPTION/sort.md",
+    "PORTFOLIO.md",
+    "OBSIDIAN_OPTION",
+    "PRIVATE.md",
     "최우진.md",
-    "개발자.md",
-    "PORTFOLIO.md"
+    "개발자.md"
   ]
 }
