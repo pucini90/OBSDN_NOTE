@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "f265a25ce30b0da9",
+    "type": "split",
+    "children": [
+      {
+        "id": "23a1f3839a1ea2cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5157894d94668fff",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c85bf83be2a90ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PORTFOLIO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73c5a9b721f48a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PORTFOLIO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6adfff7212974b74",
+    "type": "split",
+    "children": [
+      {
+        "id": "21448381c1e01ab9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f78a5cd2453c343",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "959af7c225ffb020",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7f8eace5fe0d8ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "f618c90ec01e5fb1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "38a1719c1990818b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb3d704080d0d762",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53948c45985461cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PORTFOLIO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d76a99a1326f27c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PORTFOLIO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a662946e6eaf93e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "be4a8669d172c4e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PORTFOLIO.md"
+              }
+            }
+          },
+          {
+            "id": "1cd7e896e571837d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f618c90ec01e5fb1",
+  "lastOpenFiles": [
+    "무제 파일.canvas",
+    "PORTFOLIO.md",
+    "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
+    "개발자.md",
+    "STUDY/STUDY001_OBSIDIAN.md",
+    "STUDY/STUDY002_MARKDOWN.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "STUDY",
+    "최우진.md",
+    "PRIVATE.md",
+    "OBSIDIAN_OPTION/sortspec.md.md",
+    "OBSIDIAN_OPTION"
+  ]
+}
