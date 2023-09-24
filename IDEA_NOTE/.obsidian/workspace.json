@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PORTFOLIO.md",
+                "file": "STUDY/STUDY001_OBSIDIAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "STUDY/STUDY001_OBSIDIAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "STUDY/STUDY001_OBSIDIAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "STUDY/STUDY001_OBSIDIAN.md"
+              }
             }
           },
           {
@@ -182,17 +186,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73c5a9b721f48a65",
+  "active": "c85bf83be2a90ebf",
   "lastOpenFiles": [
+    "STUDY/STUDY002_MARKDOWN.md",
+    "STUDY/STUDY003_GIT.md",
     "STUDY/STUDY.md",
+    "PORTFOLIO.md",
     "최우진.md",
     "개발자.md",
     "PRIVATE.md",
-    "PORTFOLIO.md",
     "무제 파일.canvas",
     "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
     "STUDY/STUDY001_OBSIDIAN.md",
-    "STUDY/STUDY002_MARKDOWN.md",
     "Context/spacesLastSync.log",
     "Context",
     "STUDY",

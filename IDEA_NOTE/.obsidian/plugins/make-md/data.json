@@ -36,6 +36,7 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "IDEA_NOTE": [
+      "STUDY",
       "STUDY"
     ]
   },
@@ -73,7 +74,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695567725945,
+  "spacesAutoBackupLast": 1695568600283,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
