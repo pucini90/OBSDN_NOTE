@@ -113,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STUDY/STUDY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STUDY/STUDY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "STUDY/STUDY.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,7 +182,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e36fbaeeefd74f39",
+  "active": "73c5a9b721f48a65",
   "lastOpenFiles": [
     "STUDY/STUDY.md",
     "최우진.md",
