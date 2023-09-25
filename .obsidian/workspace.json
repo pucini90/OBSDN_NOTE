@@ -6,7 +6,7 @@
       {
         "id": "bc76784e61b57672",
         "type": "tabs",
-        "dimension": 49.88066825775656,
+        "dimension": 72.43436754176611,
         "children": [
           {
             "id": "054714daa6a88c5d",
@@ -19,42 +19,30 @@
         ]
       },
       {
-        "id": "21acdbc2c31ae835",
-        "type": "split",
-        "dimension": 50.11933174224343,
+        "id": "373c7d2c658d4242",
+        "type": "tabs",
+        "dimension": 27.565632458233893,
         "children": [
           {
-            "id": "cc16f31260428f7b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5460d9610525bda9",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "IDEA_NOTE/Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md"
-                  }
-                }
-              }
-            ]
+            "id": "47e376bc7ad06bd5",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           },
           {
-            "id": "373c7d2c658d4242",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "47e376bc7ad06bd5",
-                "type": "leaf",
-                "state": {
-                  "type": "full-calendar-view",
-                  "state": {}
-                }
+            "id": "5460d9610525bda9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "IDEA_NOTE/Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md"
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
