@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "c85bf83be2a90ebf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STUDY/STUDY001_OBSIDIAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7527583e632d88df",
             "type": "leaf",
             "state": {
@@ -47,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,8 +182,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f78a5cd2453c343",
+  "active": "5157894d94668fff",
   "lastOpenFiles": [
+    "STUDY/003_GIT.md",
+    "STUDY/002_MARKDOWN.md",
+    "STUDY/001_OBSIDIAN.md",
+    "STUDY",
+    "OBSIDIAN_OPTION/GIT_PERSONAL_TOKEN.md",
     "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
     "STUDY/STUDY.md",
     "STUDY/STUDY003_GIT.md",
@@ -212,7 +204,6 @@
     "무제 파일.canvas",
     "Context/spacesLastSync.log",
     "Context",
-    "STUDY",
     "OBSIDIAN_OPTION/sortspec.md.md",
     "OBSIDIAN_OPTION"
   ]
