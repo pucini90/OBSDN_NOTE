@@ -6,14 +6,18 @@
       {
         "id": "bc76784e61b57672",
         "type": "tabs",
-        "dimension": 65.69212410501193,
+        "dimension": 73.66518353726363,
         "children": [
           {
             "id": "054714daa6a88c5d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IDEA_NOTE/STUDY/002_MARKDOWN.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,7 +25,7 @@
       {
         "id": "373c7d2c658d4242",
         "type": "tabs",
-        "dimension": 34.307875894988065,
+        "dimension": 26.33481646273637,
         "children": [
           {
             "id": "47e376bc7ad06bd5",
@@ -108,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
+                "file": "IDEA_NOTE/STUDY/002_MARKDOWN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
+                "file": "IDEA_NOTE/STUDY/002_MARKDOWN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md"
+                "file": "IDEA_NOTE/STUDY/002_MARKDOWN.md"
               }
             }
           }
@@ -172,7 +176,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5460d9610525bda9",
+  "active": "054714daa6a88c5d",
   "lastOpenFiles": [
     "IDEA_NOTE/Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
     "IDEA_NOTE/OBSIDIAN_OPTION/GIT_PERSONAL_TOKEN.md",
