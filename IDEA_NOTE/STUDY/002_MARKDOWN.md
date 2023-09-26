@@ -6,6 +6,10 @@
 - https://www.youtube.com/watch?v=kMEb_BzyUqk
 
 
+## 01. CONTENT
+
+
+___
 
 <!-- HEADING -->
 	'#' 개수에 따라 6단계로 헤딩 제공
@@ -17,6 +21,7 @@
 ###### HEADING6
 
 paragraph
+___
 
 <!-- LINE -->
 	' _ ' underline 3개면 아래처럼 줄 추가
@@ -31,16 +36,22 @@ ___
 This is an **apple**
 Hello  *World*
 ~~strike through~~
+___
 
 <!-- QUOTE --> 
 > DON'T FORGET THE SAMKAKGIMBAB
-
+___
 
 <!-- BULLET LIST -->
+	' * ' text 앞에 붙이면 목록
+	' - ' text 앞에 붙이면 목록
+
 * TEST01
 * TEST02
 
 - TEST01
 - TEST02
+___
 
 <!-- NUMBERED LIST -->
+
