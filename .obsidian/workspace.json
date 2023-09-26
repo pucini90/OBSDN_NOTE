@@ -12,9 +12,11 @@
             "id": "054714daa6a88c5d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg"
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/crawling_scrum_05.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -110,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/crawling_scrum_05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/crawling_scrum_05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg"
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/crawling_scrum_05.md"
               }
             }
           }
@@ -174,9 +176,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "73c958199096b504",
+  "active": "054714daa6a88c5d",
   "lastOpenFiles": [
-    "IDEA_NOTE/CRAWLING/Untitled",
+    "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg",
+    "IDEA_NOTE/CRAWLING/SCRUM/crawling_scrum_05.md",
+    "IDEA_NOTE/CRAWLING/SCRUM",
+    "IDEA_NOTE/CRAWLING/ERR_CASE",
     "IDEA_NOTE/STUDY/002_MARKDOWN.md",
     "IDEA_NOTE/CRAWLING",
     "IDEA_NOTE/Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
@@ -189,7 +194,6 @@
     "IDEA_NOTE/STUDY/STUDY.md",
     "IDEA_NOTE/개발자.md",
     "IDEA_NOTE/자료",
-    "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg",
     "IDEA_NOTE/PRIVATE.md",
     "IDEA_NOTE/PORTFOLIO.md",
     "README.md"
