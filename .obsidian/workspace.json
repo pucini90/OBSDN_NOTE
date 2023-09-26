@@ -108,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IDEA_NOTE/Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IDEA_NOTE/Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IDEA_NOTE/Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md"
+              }
             }
           }
         ]
@@ -168,7 +172,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "054714daa6a88c5d",
+  "active": "5460d9610525bda9",
   "lastOpenFiles": [
     "IDEA_NOTE/Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
     "IDEA_NOTE/OBSIDIAN_OPTION/GIT_PERSONAL_TOKEN.md",
