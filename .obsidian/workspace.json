@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 316.5
   },
   "right": {
     "id": "7b5ea5a8f67a403b",
@@ -176,8 +176,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "054714daa6a88c5d",
+  "active": "73c958199096b504",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/Untitled",
     "Pasted image 20230926151901.png",
     "Pasted image 20230926151758.png",
     "Pasted image 20230926151708.png",
