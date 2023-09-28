@@ -6,7 +6,7 @@
       {
         "id": "bc76784e61b57672",
         "type": "tabs",
-        "dimension": 65.69212410501193,
+        "dimension": 75.94549499443826,
         "children": [
           {
             "id": "054714daa6a88c5d",
@@ -21,7 +21,7 @@
       {
         "id": "373c7d2c658d4242",
         "type": "tabs",
-        "dimension": 34.307875894988065,
+        "dimension": 24.054505005561737,
         "children": [
           {
             "id": "47e376bc7ad06bd5",
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 316.5
   },
   "right": {
     "id": "7b5ea5a8f67a403b",
@@ -170,10 +170,22 @@
   },
   "active": "054714daa6a88c5d",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
+    "IDEA_NOTE/CRAWLING/SCRUM/crawling_scrum_05.md",
+    "IDEA_NOTE/CRAWLING/IDEA",
+    "Pasted image 20230926151901.png",
+    "Pasted image 20230926151758.png",
+    "Pasted image 20230926151708.png",
+    "Pasted image 20230926151540.png",
+    "Pasted image 20230926151531.png",
+    "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg",
+    "IDEA_NOTE/CRAWLING/SCRUM",
+    "IDEA_NOTE/CRAWLING/ERR_CASE",
+    "IDEA_NOTE/STUDY/002_MARKDOWN.md",
+    "IDEA_NOTE/CRAWLING",
     "IDEA_NOTE/Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
     "IDEA_NOTE/OBSIDIAN_OPTION/GIT_PERSONAL_TOKEN.md",
     "2023-09-25 OBSIDIAN_TEST.md",
-    "IDEA_NOTE/STUDY/002_MARKDOWN.md",
     "IDEA_NOTE/최우진.md",
     "IDEA_NOTE/STUDY/001_OBSIDIAN.md",
     "IDEA_NOTE/STUDY/003_GIT.md",
@@ -181,7 +193,6 @@
     "IDEA_NOTE/STUDY/STUDY.md",
     "IDEA_NOTE/개발자.md",
     "IDEA_NOTE/자료",
-    "IDEA_NOTE/Pasted Image 20230925002753_813.jpg",
     "IDEA_NOTE/PRIVATE.md",
     "IDEA_NOTE/PORTFOLIO.md",
     "README.md"
