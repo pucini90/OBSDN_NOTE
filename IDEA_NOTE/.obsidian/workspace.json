@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,6 +198,13 @@
   },
   "active": "aa2d9f935cca6cbb",
   "lastOpenFiles": [
+    "자료/Pasted Image 20230925002753_813.jpg",
+    "자료",
+    "CRAWLING/SCRUM/crawling_scrum_05.md",
+    "CRAWLING/SCRUM",
+    "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
+    "CRAWLING/IDEA",
+    "CRAWLING",
     "OBSIDIAN_OPTION/GIT_PERSONAL_TOKEN.md",
     "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
     "STUDY/003_GIT.md",
