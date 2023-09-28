@@ -41,14 +41,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
+                "file": "2023-09-28.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9590fea3df01e153",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OBSIDIAN_OPTION/OBSIDIAN_SORT.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,8 +200,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa2d9f935cca6cbb",
+  "active": "9590fea3df01e153",
   "lastOpenFiles": [
+    "무제 파일 1.canvas",
+    "2023-09-28.md",
+    "Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
+    "무제 파일.canvas",
+    "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
     "자료/Pasted Image 20230925002753_813.jpg",
     "자료",
     "CRAWLING/SCRUM/crawling_scrum_05.md",
@@ -211,7 +220,6 @@
     "STUDY/002_MARKDOWN.md",
     "STUDY/001_OBSIDIAN.md",
     "STUDY",
-    "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
     "STUDY/STUDY.md",
     "STUDY/STUDY003_GIT.md",
     "STUDY/STUDY002_MARKDOWN.md",
@@ -222,7 +230,6 @@
     "PORTFOLIO.md",
     "PRIVATE.md",
     "Excalidraw",
-    "무제 파일.canvas",
     "Context/spacesLastSync.log",
     "Context",
     "OBSIDIAN_OPTION/sortspec.md.md",
