@@ -34,8 +34,21 @@
                 "file": "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "aa2d9f935cca6cbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
+                "file": "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
+                "file": "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md"
+                "file": "OBSIDIAN_OPTION/OBSIDIAN_SORT.md"
               }
             }
           },
@@ -182,13 +195,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5157894d94668fff",
+  "active": "aa2d9f935cca6cbb",
   "lastOpenFiles": [
+    "OBSIDIAN_OPTION/GIT_PERSONAL_TOKEN.md",
+    "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
     "STUDY/003_GIT.md",
     "STUDY/002_MARKDOWN.md",
     "STUDY/001_OBSIDIAN.md",
     "STUDY",
-    "OBSIDIAN_OPTION/GIT_PERSONAL_TOKEN.md",
     "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
     "STUDY/STUDY.md",
     "STUDY/STUDY003_GIT.md",
@@ -199,7 +213,6 @@
     "Pasted Image 20230925002753_813.jpg",
     "PORTFOLIO.md",
     "PRIVATE.md",
-    "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
     "Excalidraw",
     "무제 파일.canvas",
     "Context/spacesLastSync.log",
