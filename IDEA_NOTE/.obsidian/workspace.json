@@ -51,8 +51,12 @@
             "id": "9590fea3df01e153",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "STUDY/004_PROGRAMMERS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -110,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "STUDY/004_PROGRAMMERS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "STUDY/004_PROGRAMMERS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "STUDY/004_PROGRAMMERS.md"
+              }
             }
           },
           {
@@ -202,11 +209,14 @@
   },
   "active": "9590fea3df01e153",
   "lastOpenFiles": [
+    "STUDY/001_OBSIDIAN.md",
+    "STUDY/004_PROGRAMMERS.md",
+    "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
+    "STUDY/004_PROGRAMMERS",
     "무제 파일 1.canvas",
     "2023-09-28.md",
     "Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
     "무제 파일.canvas",
-    "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
     "자료/Pasted Image 20230925002753_813.jpg",
     "자료",
     "CRAWLING/SCRUM/crawling_scrum_05.md",
@@ -218,7 +228,6 @@
     "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
     "STUDY/003_GIT.md",
     "STUDY/002_MARKDOWN.md",
-    "STUDY/001_OBSIDIAN.md",
     "STUDY",
     "STUDY/STUDY.md",
     "STUDY/STUDY003_GIT.md",

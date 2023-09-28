@@ -1,0 +1,2 @@
+class Solution {
+    public int solution(int n) {<br>        if (n % 2 == 1) {<br>            return (n + 1) * (n + 1) / 2 / 2;<br>        } else {<br>            return 4 * n/2 * (n/2 + 1) * (2 * n/2 + 1) / 6;   <br>        }<br>    }<br>}
