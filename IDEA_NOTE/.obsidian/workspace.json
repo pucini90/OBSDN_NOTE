@@ -63,10 +63,8 @@
             "id": "d26b82e10d76b9b3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -145,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STUDY/004_PROGRAMMERS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +159,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STUDY/004_PROGRAMMERS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +180,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "STUDY/004_PROGRAMMERS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -220,6 +214,9 @@
   },
   "active": "d26b82e10d76b9b3",
   "lastOpenFiles": [
+    "무제 파일 2.canvas",
+    "2023-10-03.md",
+    "무제 파일.md",
     "STUDY/001_OBSIDIAN.md",
     "STUDY/004_PROGRAMMERS.md",
     "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
