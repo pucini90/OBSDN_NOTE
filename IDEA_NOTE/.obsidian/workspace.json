@@ -58,9 +58,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d26b82e10d76b9b3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -114,7 +124,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,7 +218,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9590fea3df01e153",
+  "active": "d26b82e10d76b9b3",
   "lastOpenFiles": [
     "STUDY/001_OBSIDIAN.md",
     "STUDY/004_PROGRAMMERS.md",
