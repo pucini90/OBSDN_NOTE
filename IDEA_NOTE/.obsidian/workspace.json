@@ -63,8 +63,12 @@
             "id": "d26b82e10d76b9b3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -122,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md"
+              }
             }
           },
           {
@@ -214,16 +221,18 @@
   },
   "active": "d26b82e10d76b9b3",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
+    "OBSIDIAN_OPTION/GIT_PERSONAL_TOKEN.md",
+    "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
     "무제 파일 2.canvas",
     "2023-10-03.md",
     "무제 파일.md",
     "STUDY/001_OBSIDIAN.md",
     "STUDY/004_PROGRAMMERS.md",
-    "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
     "STUDY/004_PROGRAMMERS",
     "무제 파일 1.canvas",
     "2023-09-28.md",
-    "Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
     "무제 파일.canvas",
     "자료/Pasted Image 20230925002753_813.jpg",
     "자료",
@@ -232,8 +241,6 @@
     "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
     "CRAWLING/IDEA",
     "CRAWLING",
-    "OBSIDIAN_OPTION/GIT_PERSONAL_TOKEN.md",
-    "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
     "STUDY/003_GIT.md",
     "STUDY/002_MARKDOWN.md",
     "STUDY",
