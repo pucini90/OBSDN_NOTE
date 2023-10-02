@@ -53,19 +53,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STUDY/004_PROGRAMMERS.md",
+                "file": "PRIVATE.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d26b82e10d76b9b3",
+            "id": "2ee6f688ba430afa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
+                "file": "MEMO.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
+                "file": "MEMO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
+                "file": "MEMO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md"
+                "file": "MEMO.md"
               }
             }
           },
@@ -219,26 +219,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d26b82e10d76b9b3",
+  "active": "2ee6f688ba430afa",
   "lastOpenFiles": [
+    "PRIVATE.md",
+    "MEMO.md",
+    "개발자.md",
+    "최우진.md",
+    "2023-10-03.md",
+    "2023-09-28.md",
+    "PORTFOLIO.md",
+    "STUDY/004_PROGRAMMERS.md",
+    "무제 파일 2.canvas",
+    "무제 파일 1.canvas",
+    "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
+    "무제 파일.canvas",
     "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
     "Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
     "OBSIDIAN_OPTION/GIT_PERSONAL_TOKEN.md",
     "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
-    "무제 파일 2.canvas",
-    "2023-10-03.md",
-    "무제 파일.md",
     "STUDY/001_OBSIDIAN.md",
-    "STUDY/004_PROGRAMMERS.md",
     "STUDY/004_PROGRAMMERS",
-    "무제 파일 1.canvas",
-    "2023-09-28.md",
-    "무제 파일.canvas",
     "자료/Pasted Image 20230925002753_813.jpg",
     "자료",
     "CRAWLING/SCRUM/crawling_scrum_05.md",
     "CRAWLING/SCRUM",
-    "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
     "CRAWLING/IDEA",
     "CRAWLING",
     "STUDY/003_GIT.md",
@@ -248,11 +252,7 @@
     "STUDY/STUDY003_GIT.md",
     "STUDY/STUDY002_MARKDOWN.md",
     "STUDY/STUDY001_OBSIDIAN.md",
-    "개발자.md",
-    "최우진.md",
     "Pasted Image 20230925002753_813.jpg",
-    "PORTFOLIO.md",
-    "PRIVATE.md",
     "Excalidraw",
     "Context/spacesLastSync.log",
     "Context",
