@@ -10,3 +10,7 @@
 
 7. YOU_TRACK / OBSIDIAN
 
+WISH
+
+1. 계란
+2. 

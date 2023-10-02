@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRAWLING/SCRUM/crawling_scrum_05.md",
+                "file": "MEMO.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRAWLING/SCRUM/crawling_scrum_05.md",
+                "file": "MEMO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRAWLING/SCRUM/crawling_scrum_05.md",
+                "file": "MEMO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRAWLING/SCRUM/crawling_scrum_05.md"
+                "file": "MEMO.md"
               }
             }
           },
@@ -201,10 +201,10 @@
   },
   "active": "7527583e632d88df",
   "lastOpenFiles": [
+    "CRAWLING/SCRUM/crawling_scrum_05.md",
     "Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
     "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
     "Pasted image 20230926151540.png.md",
-    "CRAWLING/SCRUM/crawling_scrum_05.md",
     "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
     "자료/Pasted Image 20230925002753_813.jpg",
     "PRIVATE.md",
