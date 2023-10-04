@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231004.수.md",
+                "file": "IDEA_NOTE/TODO/20231005.목.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231004.수.md",
+                "file": "IDEA_NOTE/TODO/20231005.목.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231004.수.md",
+                "file": "IDEA_NOTE/TODO/20231005.목.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231004.수.md"
+                "file": "IDEA_NOTE/TODO/20231005.목.md"
               }
             }
           }
@@ -178,8 +178,9 @@
   },
   "active": "054714daa6a88c5d",
   "lastOpenFiles": [
-    "IDEA_NOTE/OBSIDIAN_OPTION/2023-09-25 OBSIDIAN_TEST.md",
     "IDEA_NOTE/TODO/20231004.수.md",
+    "IDEA_NOTE/TODO/20231005.목.md",
+    "IDEA_NOTE/OBSIDIAN_OPTION/2023-09-25 OBSIDIAN_TEST.md",
     "IDEA_NOTE/TODO",
     "README.md",
     "IDEA_NOTE/자료/Pasted image 20230926151531.png",
