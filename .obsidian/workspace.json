@@ -12,8 +12,12 @@
             "id": "054714daa6a88c5d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IDEA_NOTE/TODO/20231004.수.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -35,9 +39,9 @@
             "id": "5460d9610525bda9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "IDEA_NOTE/Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md"
+                "file": "IDEA_NOTE/자료/Pasted image 20230926151531.png"
               }
             }
           }
@@ -108,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IDEA_NOTE/TODO/20231004.수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IDEA_NOTE/TODO/20231004.수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IDEA_NOTE/TODO/20231004.수.md"
+              }
             }
           }
         ]
@@ -170,22 +178,25 @@
   },
   "active": "054714daa6a88c5d",
   "lastOpenFiles": [
+    "IDEA_NOTE/OBSIDIAN_OPTION/2023-09-25 OBSIDIAN_TEST.md",
+    "IDEA_NOTE/TODO/20231004.수.md",
+    "IDEA_NOTE/TODO",
+    "README.md",
+    "IDEA_NOTE/자료/Pasted image 20230926151531.png",
+    "IDEA_NOTE/자료/Pasted image 20230926151540.png",
+    "IDEA_NOTE/자료/Pasted image 20230926151901.png",
+    "IDEA_NOTE/Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
     "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
     "IDEA_NOTE/CRAWLING/SCRUM/crawling_scrum_05.md",
     "IDEA_NOTE/CRAWLING/IDEA",
-    "Pasted image 20230926151901.png",
-    "Pasted image 20230926151758.png",
-    "Pasted image 20230926151708.png",
-    "Pasted image 20230926151540.png",
-    "Pasted image 20230926151531.png",
+    "IDEA_NOTE/자료/Pasted image 20230926151758.png",
+    "IDEA_NOTE/자료/Pasted image 20230926151708.png",
     "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg",
     "IDEA_NOTE/CRAWLING/SCRUM",
     "IDEA_NOTE/CRAWLING/ERR_CASE",
     "IDEA_NOTE/STUDY/002_MARKDOWN.md",
     "IDEA_NOTE/CRAWLING",
-    "IDEA_NOTE/Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
     "IDEA_NOTE/OBSIDIAN_OPTION/GIT_PERSONAL_TOKEN.md",
-    "2023-09-25 OBSIDIAN_TEST.md",
     "IDEA_NOTE/최우진.md",
     "IDEA_NOTE/STUDY/001_OBSIDIAN.md",
     "IDEA_NOTE/STUDY/003_GIT.md",
@@ -194,7 +205,6 @@
     "IDEA_NOTE/개발자.md",
     "IDEA_NOTE/자료",
     "IDEA_NOTE/PRIVATE.md",
-    "IDEA_NOTE/PORTFOLIO.md",
-    "README.md"
+    "IDEA_NOTE/PORTFOLIO.md"
   ]
 }
