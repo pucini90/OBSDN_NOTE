@@ -60,5 +60,7 @@
 		 agr_product_main - 분석 상품
 		 agr_product_basis - 분석 가설
 		 agr_product_treaty - 분석 특약 
-		 code_master - 메타 코
+		 code_master - 전환 코드
+		
 		 
+![[Pasted Image 20231006082049_567.png]]

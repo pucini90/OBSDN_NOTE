@@ -28,18 +28,6 @@
             }
           },
           {
-            "id": "73c5a9b721f48a65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pasted image 20230926151540.png.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2ee6f688ba430afa",
             "type": "leaf",
             "state": {
@@ -52,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,15 +189,19 @@
   },
   "active": "2ee6f688ba430afa",
   "lastOpenFiles": [
-    "CRAWLING/SCRUM/scrum_03.md",
+    "자료/Pasted Image 20231006082049_567.png",
     "CRAWLING/SCRUM/scrum_04.md",
-    "MEMO.md",
     "Pasted image 20230926151540.png.md",
     "자료/Pasted image 20230926151901.png",
     "자료/Pasted image 20230926151758.png",
     "자료/Pasted image 20230926151708.png",
     "자료/Pasted image 20230926151540.png",
     "자료/Pasted image 20230926151531.png",
+    "자료/Pasted Image 20230925002753_813.jpg",
+    "Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
+    "CRAWLING/SCRUM/scrum_03.md",
+    "MEMO.md",
     "TODO/20231005.목.md",
     "TODO/20231004.수.md",
     "TODO",
@@ -217,10 +209,7 @@
     "CRAWLING/SCRUM/scrum_02.md",
     "CRAWLING/SCRUM/scrum_01.md",
     "CRAWLING/SCRUM/crawling_scrum_05.md",
-    "Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
     "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
-    "자료/Pasted Image 20230925002753_813.jpg",
     "PRIVATE.md",
     "2023-09-28.md",
     "개발자.md",
