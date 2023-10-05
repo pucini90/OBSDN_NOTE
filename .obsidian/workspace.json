@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8de8bad96e96e1e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDEA_NOTE/TODO/20231005.목.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "373c7d2c658d4242",
@@ -176,7 +189,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "054714daa6a88c5d",
+  "active": "8de8bad96e96e1e6",
   "lastOpenFiles": [
     "IDEA_NOTE/TODO/20231004.수.md",
     "IDEA_NOTE/TODO/20231005.목.md",
