@@ -19,6 +19,21 @@
             "id": "bcb05aff9f42916e",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 2.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "b87e037431bdeb7d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_04.md",
@@ -28,7 +43,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,16 +173,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "73c958199096b504",
+  "active": "b87e037431bdeb7d",
   "lastOpenFiles": [
-    "IDEA_NOTE/TODO/20231005.목.md",
+    "IDEA_NOTE/최우진.md",
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_04.md",
     "Untitled 2.canvas",
+    "IDEA_NOTE/TODO/20231005.목.md",
     "IDEA_NOTE/자료/Pasted image 20230926151531.png",
     "2023-10-05.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_02.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "IDEA_NOTE/CRAWLING/SCRUM/scrum_04.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_03.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_01.md",
     "IDEA_NOTE/STUDY/004_PROGRAMMERS.md",
@@ -176,7 +192,6 @@
     "IDEA_NOTE/STUDY/001_OBSIDIAN.md",
     "IDEA_NOTE/STUDY/003_GIT.md",
     "IDEA_NOTE/개발자.md",
-    "IDEA_NOTE/최우진.md",
     "IDEA_NOTE/MEMO.md",
     "IDEA_NOTE/2023-09-28.md",
     "IDEA_NOTE/2023-10-03.md",
