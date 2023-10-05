@@ -62,6 +62,3 @@
 		 agr_product_treaty - 분석 특약 
 		 code_master - 메타 코
 		 
-
-	 2. "PRODUCT" s
-		 
