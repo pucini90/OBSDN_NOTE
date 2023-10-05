@@ -46,3 +46,22 @@
 4. QUIZ
 	- 5자리 정수를 입력받는다 
 	- 변수와 기본 연산자만 사용해서 역순으로 출력해보자
+
+5. DB
+	1. "fincette" scheme
+		 company
+		 product
+		 product_master
+		 plan_master
+		 plan_mapper
+		 plan_calc
+		 plan_return_money
+		 plan_annuity_money
+		 agr_product_main
+		 agr_product_basis
+		 agr_product_treaty
+		 code_master
+		 
+
+	 2. "PRODUCT" s
+		 
