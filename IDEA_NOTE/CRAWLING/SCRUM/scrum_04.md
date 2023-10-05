@@ -13,9 +13,9 @@
 		- 메뉴얼 작성 : https://www.notion.so/ba0eb80cdb844e6ba6af0c6ed4e6bb44?pvs=4
 		- 메뉴얼 다들 검수한번 부탁드립니다 
 		
-	[[1003 입사예정자 01]]
+	[[1003 입사예정자 01]] 이기세
 		- 
-	[[1003 입사예정자 02]]
+	[[1003 입사예정자 02]] 이다인
 		-  
 
 
@@ -61,6 +61,6 @@
 		 agr_product_basis - 분석 가설
 		 agr_product_treaty - 분석 특약 
 		 code_master - 전환 코드
-		
-		 
+		 		 
 ![[Pasted Image 20231006082049_567.png]]
+
