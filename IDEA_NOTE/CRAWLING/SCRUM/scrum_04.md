@@ -49,18 +49,18 @@
 
 5. DB
 	1. "fincette" scheme
-		 company
-		 product
-		 product_master
-		 plan_master
-		 plan_mapper
-		 plan_calc
-		 plan_return_money
-		 plan_annuity_money
-		 agr_product_main
-		 agr_product_basis
-		 agr_product_treaty
-		 code_master
+		 company - 보험사
+		 product - 보험상품
+		 product_master - 전체 특약
+		 plan_master - 가설
+		 plan_mapper - 가설 특약
+		 plan_calc - 가설 금액정보 : : 보험료, 만기환급금, 
+		 plan_return_money - 가설 해약환급정보
+		 plan_annuity_money - 가설 연금정보
+		 agr_product_main - 분석 상품
+		 agr_product_basis - 분석 가설
+		 agr_product_treaty - 분석 특약 
+		 code_master - 메타 코
 		 
 
 	 2. "PRODUCT" s
