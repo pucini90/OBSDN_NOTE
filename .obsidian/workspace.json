@@ -26,14 +26,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231005.목.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80cef1eb7dd2187e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_04.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "373c7d2c658d4242",
@@ -88,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#어쩌면마지막",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +117,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231005.목.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231005.목.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231005.목.md"
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_04.md"
               }
             }
           }
@@ -189,28 +202,31 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8de8bad96e96e1e6",
+  "active": "80cef1eb7dd2187e",
   "lastOpenFiles": [
+    "IDEA_NOTE/자료/Pasted image 20230926151531.png",
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_04.md",
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_03.md",
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_02.md",
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_01.md",
+    "IDEA_NOTE/STUDY/004_PROGRAMMERS.md",
+    "IDEA_NOTE/TODO/20231004.수.md",
+    "IDEA_NOTE/TODO/20231005.목.md",
     "IDEA_NOTE/STUDY/002_MARKDOWN.md",
     "IDEA_NOTE/STUDY/001_OBSIDIAN.md",
     "IDEA_NOTE/STUDY/003_GIT.md",
-    "IDEA_NOTE/STUDY/004_PROGRAMMERS.md",
     "IDEA_NOTE/개발자.md",
     "IDEA_NOTE/최우진.md",
     "IDEA_NOTE/MEMO.md",
-    "IDEA_NOTE/TODO/20231005.목.md",
     "IDEA_NOTE/2023-09-28.md",
     "IDEA_NOTE/2023-10-03.md",
-    "IDEA_NOTE/TODO/20231004.수.md",
     "IDEA_NOTE/OBSIDIAN_OPTION/2023-09-25 OBSIDIAN_TEST.md",
     "IDEA_NOTE/TODO",
     "README.md",
-    "IDEA_NOTE/자료/Pasted image 20230926151531.png",
     "IDEA_NOTE/자료/Pasted image 20230926151540.png",
     "IDEA_NOTE/자료/Pasted image 20230926151901.png",
     "IDEA_NOTE/Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
     "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
-    "IDEA_NOTE/CRAWLING/SCRUM/crawling_scrum_05.md",
     "IDEA_NOTE/CRAWLING/IDEA",
     "IDEA_NOTE/자료/Pasted image 20230926151758.png",
     "IDEA_NOTE/자료/Pasted image 20230926151708.png",
