@@ -7,7 +7,6 @@
 
 
 ___
-
 <!-- HEADING -->
 	'#' 개수에 따라 6단계로 헤딩 제공
 # HEADING1
@@ -18,17 +17,16 @@ ___
 ###### HEADING6
 
 paragraph
-___
 
+___
 <!-- LINE -->
 	' _ ' underline 3개면 아래처럼 줄 추가
 
 ___
-
 <!-- TEXT ATTRIBUTE -->
-	' ** ' 로 text를 감싸면 bold
-	' * ' 로 text를 감싸면 italic
-	' ~~ ' 로 text를 감싸면 strikethrough
+	' ** ' 로 text를 감싸면 **bold**
+	' * ' 로 text를 감싸면 *italic*
+	' ~~ ' 로 text를 감싸면 ~~strikethrough~~
 
 This is an **apple**
 Hello  *World*

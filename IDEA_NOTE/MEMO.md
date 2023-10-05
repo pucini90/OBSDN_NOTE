@@ -1,4 +1,6 @@
-#### TODO 
+
+---
+### TODO 
 
 1. 메뉴얼 완성
 
@@ -10,7 +12,6 @@
 
 7. YOU_TRACK / OBSIDIAN
 
-WISH
-
-1. 계란
-2. 
+---
+### WISH
+ 
