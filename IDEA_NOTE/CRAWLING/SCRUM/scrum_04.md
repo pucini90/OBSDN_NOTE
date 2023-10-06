@@ -9,7 +9,7 @@
 		- 
 		
 	[[최우진]] 
-		- ~~유구무언입니다~~ 20개 줄어들지를 않네요
+		- ~~유구무언입니다~~ 20개가 줄어들지를 않네요
 		- 메뉴얼 작성 : https://www.notion.so/ba0eb80cdb844e6ba6af0c6ed4e6bb44?pvs=4
 		- 메뉴얼 다들 검수한번 부탁드립니다 
 		
@@ -21,9 +21,13 @@
 
 2. REMIND LIST
 	1. 만기환급금 처리 
-		 정해진 내용 만기환급금 정해진 column 있으면 크롤링
-		 정해진 column 없으면
-	2. 예상적립금 
+		 - 정해진 내용 만기환급금 정해진 column 있으면 크롤링
+		 - 정해진 column 없으면 해약환급금에서 유추하여 대입
+		 - 어떻게해도 만기환급금 알수 없다  ' - 1 ' 대입
+		 - 공통화코드(Abstract Crawler) 수정필요
+	1. 예상적립금 
+		- 
+	1. '대표가설 우선순위' 
 
 	. MZI 
 		- 일정상 12일까지 완료 - 11일에 진행경과 한번씩만 공유해주세요
@@ -62,9 +66,26 @@
 		 plan_return_money - 가설 해약환급정보
 		 plan_annuity_money - 가설 연금정보
 		 agr_product_main - 분석 상품
-		 agr_product_basis - 분석 가설
+		 agr_product_basis - 분석 가설 
 		 agr_product_treaty - 분석 특약 
-		 code_master - 전환 코드
+		 code_master - 전환 코드 
 		 		 
 ![[Pasted Image 20231006082049_567.png]]
 
+6. API list
+	1. nuzal
+	2. crawling
+
+8. 메뉴얼 수정 필요
+
+9. 펭귄 업데이트 
+	1. 변수 / 클래스
+	2. OOP
+	3. 기본연산자
+	4. 메서드
+
+	1. 배열, Collection
+	2. 조건문, 반복문
+	3. 
+
+11. 보답 
