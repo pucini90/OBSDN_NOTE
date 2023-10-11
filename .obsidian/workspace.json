@@ -16,21 +16,6 @@
             }
           },
           {
-            "id": "bcb05aff9f42916e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 2.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "b87e037431bdeb7d",
             "type": "leaf",
             "state": {
@@ -43,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +158,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b87e037431bdeb7d",
+  "active": "73c958199096b504",
   "lastOpenFiles": [
     "IDEA_NOTE/TODO/20231011.화.md",
     "IDEA_NOTE/TODO/20231010.월.md",
