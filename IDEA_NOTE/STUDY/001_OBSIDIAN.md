@@ -8,4 +8,5 @@ cssclasses:
   - css도
   - 있네
 ---
- properties : 뭔지 몰라도 파일내 특정 설정 내용 넣는 위치인듯
+	
+### OBSIDIAN 사용법 연구중...

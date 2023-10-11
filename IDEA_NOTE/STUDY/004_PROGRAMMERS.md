@@ -18,3 +18,8 @@ class Solution {
         return functions.get(ineq + eq).apply(n, m) ? 1 : 0;
     }
 }
+
+
+<table>
+
+</table>
