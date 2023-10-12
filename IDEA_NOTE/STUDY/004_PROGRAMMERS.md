@@ -1,4 +1,6 @@
 
+00. 변수, 기본연산자만 갖고 푸는 문제
+
 01. 짝수는 짝수제곱합, 홀수는 홀수합 구하는 문제
 class Solution {
     public int solution(int n) {<br>        if (n % 2 == 1) {<br>            return (n + 1) * (n + 1) / 2 / 2;<br>        } else {<br>            return 4 * n/2 * (n/2 + 1) * (2 * n/2 + 1) / 6;   <br>        }<br>    }<br>}
