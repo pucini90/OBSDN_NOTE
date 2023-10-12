@@ -19,11 +19,9 @@
             "id": "7527583e632d88df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "CRAWLING/SCRUM/Untitled Kanban.md",
-                "mode": "source",
-                "source": false
+                "file": "CRAWLING/SCRUM/MANAGER.md"
               }
             }
           }
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRAWLING/SCRUM/Untitled Kanban.md",
+                "file": "CRAWLING/SCRUM/MANAGER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRAWLING/SCRUM/Untitled Kanban.md",
+                "file": "CRAWLING/SCRUM/MANAGER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRAWLING/SCRUM/Untitled Kanban.md"
+                "file": "CRAWLING/SCRUM/MANAGER.md"
               }
             }
           },
@@ -170,13 +168,15 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7527583e632d88df",
   "lastOpenFiles": [
+    "CRAWLING/SCRUM/scrum_01.md",
+    "CRAWLING/SCRUM/MANAGER.md",
     "MEMO.md",
     "무제 파일.canvas",
     "CRAWLING/SCRUM/scrum_04.md",
@@ -184,7 +184,6 @@
     "TODO/20231011.수.md",
     "TODO/20231010.월.md",
     "CRAWLING/SCRUM/scrum_05.md",
-    "CRAWLING/SCRUM/Untitled Kanban.md",
     "CRAWLING/COLLEAGUE/이다인.md",
     "CRAWLING/COLLEAGUE/이기세.md",
     "CRAWLING/COLLEAGUE/위강은.md",
@@ -210,7 +209,6 @@
     "TODO",
     "OBSIDIAN_OPTION/2023-09-25 OBSIDIAN_TEST.md",
     "CRAWLING/SCRUM/scrum_02.md",
-    "CRAWLING/SCRUM/scrum_01.md",
     "CRAWLING/SCRUM/crawling_scrum_05.md",
     "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
     "무제 파일 2.canvas",
