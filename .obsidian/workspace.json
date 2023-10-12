@@ -11,9 +11,11 @@
             "id": "b87e037431bdeb7d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/Untitled Kanban.md"
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_05.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/Untitled Kanban.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/Untitled Kanban.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/Untitled Kanban.md"
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_05.md"
               }
             }
           }
@@ -147,10 +149,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "73c958199096b504",
+  "active": "b87e037431bdeb7d",
   "lastOpenFiles": [
-    "IDEA_NOTE/CRAWLING/SCRUM/scrum_05.md",
     "IDEA_NOTE/CRAWLING/SCRUM/Untitled Kanban.md",
+    "IDEA_NOTE/무제 파일.canvas",
+    "IDEA_NOTE/CRAWLING/SCRUM/MANAGER.md",
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_05.md",
     "IDEA_NOTE/STUDY/004_PROGRAMMERS.md",
     "IDEA_NOTE/개발자.md",
     "IDEA_NOTE/TODO/20231012.목.md",
@@ -174,8 +178,6 @@
     "IDEA_NOTE/CRAWLING/COLLEAGUE/노우정.md",
     "IDEA_NOTE/CRAWLING/COLLEAGUE",
     "IDEA_NOTE/CRAWLING/COLLEAGUE.md",
-    "IDEA_NOTE/CRAWLING/SCRUM/scrum_04.md",
-    "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
     "IDEA_NOTE/자료/Pasted Image 20231006082049_567.png",
     "Untitled 2.canvas",
     "IDEA_NOTE/자료/Pasted image 20230926151531.png",
