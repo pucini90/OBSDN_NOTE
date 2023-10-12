@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Untitled Kanban.md"
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/Untitled Kanban.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Untitled Kanban.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Untitled Kanban.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Untitled Kanban.md"
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/Untitled Kanban.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b87e037431bdeb7d",
+  "active": "73c958199096b504",
   "lastOpenFiles": [
     "IDEA_NOTE/CRAWLING/Untitled.md",
-    "IDEA_NOTE/CRAWLING/Untitled Kanban.md",
+    "IDEA_NOTE/CRAWLING/SCRUM/Untitled Kanban.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_05.md",
     "IDEA_NOTE/TODO/20231010.월.md",
     "IDEA_NOTE/TODO/20231011.수.md",
