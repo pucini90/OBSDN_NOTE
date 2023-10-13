@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "팀 회의 준비.md",
+                "file": "주간 현행화.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "7b5ea5a8f67a403b",
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "팀 회의 준비.md",
+                "file": "MZ 현행화 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "팀 회의 준비.md",
+                "file": "MZ 현행화 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "팀 회의 준비.md"
+                "file": "MZ 현행화 관리.md"
               }
             }
           }
@@ -201,14 +202,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c7859e3db7be0e68",
+  "active": "d9840d19c3b18ef0",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/MANAGER.md",
+    "주간 현행화.md",
+    "팀 회의 준비.md",
+    "MZ 현행화 관리.md",
     "Pasted image 20231013142101.png",
     "Pasted image 20231013141930.png",
-    "IDEA_NOTE/CRAWLING/MANAGER.md",
-    "MZ 현행화 관리.md",
-    "팀 회의 준비.md",
-    "주간 현행화.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_05.md",
     "IDEA_NOTE/STUDY/002_MARKDOWN.md",
     "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
