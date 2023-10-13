@@ -20,6 +20,24 @@
         ]
       },
       {
+        "id": "97d94e5c300e0767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9840d19c3b18ef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MZ 현행화 관리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "22985683846e3180",
         "type": "tabs",
         "children": [
@@ -29,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "팀 회의.md",
+                "file": "팀 회의 준비.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "현행화.md",
+                "file": "주간 현행화.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "팀 회의.md",
+                "file": "MZ 현행화 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "팀 회의.md",
+                "file": "MZ 현행화 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "팀 회의.md"
+                "file": "MZ 현행화 관리.md"
               }
             }
           }
@@ -183,11 +201,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c7859e3db7be0e68",
+  "active": "d9840d19c3b18ef0",
   "lastOpenFiles": [
     "IDEA_NOTE/CRAWLING/MANAGER.md",
-    "팀 회의.md",
-    "현행화.md",
+    "MZ 현행화 관리.md",
+    "주간 현행화.md",
+    "팀 회의 준비.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_05.md",
     "IDEA_NOTE/STUDY/002_MARKDOWN.md",
     "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
@@ -211,7 +230,6 @@
     "IDEA_NOTE/TODO/20231004.수.md",
     "IDEA_NOTE/최우진.md",
     "IDEA_NOTE/CRAWLING/COLLEAGUE/이다인.md",
-    "IDEA_NOTE/CRAWLING/COLLEAGUE/최우진.md",
     "IDEA_NOTE/CRAWLING/COLLEAGUE",
     "IDEA_NOTE/자료/Pasted Image 20231006082049_567.png",
     "Untitled 2.canvas",

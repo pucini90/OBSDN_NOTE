@@ -10,8 +10,8 @@ kanban-plugin: basic
 
 ## ING
 
-- [ ] [[현행화]]
-- [ ] [[팀 회의]]
+- [ ] [[주간 현행화]]
+- [ ] [[MZ 현행화 관리]]
 
 
 ## REVIEW
@@ -20,6 +20,7 @@ kanban-plugin: basic
 
 ## DONE
 
+- [ ] [[팀 회의 준비]]
 
 
 
