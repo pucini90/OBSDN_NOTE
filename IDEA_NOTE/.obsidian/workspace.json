@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRAWLING/ERR_CASE/ERR_CASE_01.md",
+                "file": "PORTFOLIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRAWLING/ERR_CASE/ERR_CASE_01.md",
+                "file": "PORTFOLIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRAWLING/ERR_CASE/ERR_CASE_01.md",
+                "file": "PORTFOLIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRAWLING/ERR_CASE/ERR_CASE_01.md"
+                "file": "PORTFOLIO.md"
               }
             }
           },
@@ -177,11 +177,15 @@
   },
   "active": "7527583e632d88df",
   "lastOpenFiles": [
+    "개발자.md",
+    "최우진.md",
+    "무제 파일.canvas",
+    "MEMO.md",
+    "PORTFOLIO.md",
+    "CRAWLING/ERR_CASE/ERR_CASE_01.md",
     "CRAWLING/MANAGER.md",
     "CRAWLING/SCRUM/MANAGER.md",
     "CRAWLING/SCRUM/scrum_01.md",
-    "MEMO.md",
-    "무제 파일.canvas",
     "CRAWLING/SCRUM/scrum_04.md",
     "TODO/20231012.목.md",
     "TODO/20231011.수.md",
@@ -194,7 +198,6 @@
     "CRAWLING/COLLEAGUE/변재우.md",
     "CRAWLING/COLLEAGUE/노우정.md",
     "CRAWLING/COLLEAGUE",
-    "CRAWLING/ERR_CASE/ERR_CASE_01.md",
     "CRAWLING/ERR_CASE",
     "자료/Pasted Image 20231006082049_567.png",
     "Pasted image 20230926151540.png.md",
@@ -211,9 +214,6 @@
     "TODO/20231004.수.md",
     "TODO",
     "OBSIDIAN_OPTION/2023-09-25 OBSIDIAN_TEST.md",
-    "CRAWLING/SCRUM/scrum_02.md",
-    "CRAWLING/SCRUM/crawling_scrum_05.md",
-    "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "STUDY/004_PROGRAMMERS",
