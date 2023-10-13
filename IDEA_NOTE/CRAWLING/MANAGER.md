@@ -10,6 +10,8 @@ kanban-plugin: basic
 
 ## ING
 
+- [ ] [[현행화]]
+- [ ] [[팀 회의]]
 
 
 ## REVIEW
