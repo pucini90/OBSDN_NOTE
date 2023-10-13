@@ -6,6 +6,7 @@
       {
         "id": "373c7d2c658d4242",
         "type": "tabs",
+        "dimension": 15.191897654584222,
         "children": [
           {
             "id": "b87e037431bdeb7d",
@@ -22,6 +23,7 @@
       {
         "id": "97d94e5c300e0767",
         "type": "tabs",
+        "dimension": 61.08742004264393,
         "children": [
           {
             "id": "d9840d19c3b18ef0",
@@ -29,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MZ 현행화 관리.md",
+                "file": "팀 회의 준비.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,6 +42,7 @@
       {
         "id": "22985683846e3180",
         "type": "tabs",
+        "dimension": 10.660980810234541,
         "children": [
           {
             "id": "c7859e3db7be0e68",
@@ -58,6 +61,7 @@
       {
         "id": "230df4d9e0a85ccc",
         "type": "tabs",
+        "dimension": 13.059701492537313,
         "children": [
           {
             "id": "fe6a72ae9078508e",
@@ -138,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MZ 현행화 관리.md",
+                "file": "팀 회의 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MZ 현행화 관리.md",
+                "file": "팀 회의 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MZ 현행화 관리.md"
+                "file": "팀 회의 준비.md"
               }
             }
           }
@@ -204,10 +208,10 @@
   },
   "active": "d9840d19c3b18ef0",
   "lastOpenFiles": [
+    "MZ 현행화 관리.md",
     "IDEA_NOTE/CRAWLING/MANAGER.md",
     "주간 현행화.md",
     "팀 회의 준비.md",
-    "MZ 현행화 관리.md",
     "Pasted image 20231013142101.png",
     "Pasted image 20231013141930.png",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_05.md",
