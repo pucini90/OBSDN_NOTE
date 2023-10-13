@@ -19,9 +19,11 @@
             "id": "7527583e632d88df",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "CRAWLING/SCRUM/MANAGER.md"
+                "file": "CRAWLING/ERR_CASE/ERR_CASE_01.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRAWLING/SCRUM/MANAGER.md",
+                "file": "CRAWLING/ERR_CASE/ERR_CASE_01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRAWLING/SCRUM/MANAGER.md",
+                "file": "CRAWLING/ERR_CASE/ERR_CASE_01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRAWLING/SCRUM/MANAGER.md"
+                "file": "CRAWLING/ERR_CASE/ERR_CASE_01.md"
               }
             }
           },
@@ -175,8 +177,8 @@
   },
   "active": "7527583e632d88df",
   "lastOpenFiles": [
-    "CRAWLING/SCRUM/scrum_01.md",
     "CRAWLING/SCRUM/MANAGER.md",
+    "CRAWLING/SCRUM/scrum_01.md",
     "MEMO.md",
     "무제 파일.canvas",
     "CRAWLING/SCRUM/scrum_04.md",
