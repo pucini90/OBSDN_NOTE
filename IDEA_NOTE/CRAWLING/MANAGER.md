@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## TODO
 
+- [ ] 요청 : 강은님, 개인PC 세팅 방법
 
 
 ## ING
