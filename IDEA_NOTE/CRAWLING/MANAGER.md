@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## TODO
 
 - [ ] 요청 : 강은님, 개인PC 세팅 방법
+- [ ] [[기존 crawler 시스템 분석 + 새로운 도입 시도 내용 검토 with 용호]]
 
 
 ## ING
