@@ -4,43 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "23a1f3839a1ea2cf",
+        "id": "8f42418a8288a5c6",
         "type": "tabs",
         "children": [
           {
-            "id": "5157894d94668fff",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "7527583e632d88df",
+            "id": "c7d644480c3fb2e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEMO.md",
+                "file": "test1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cef06942d6e544de",
+            "id": "47c3b8b64de8ea98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "최우진.md",
+                "file": "test2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "최우진.md",
+                "file": "test2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "최우진.md",
+                "file": "test2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "최우진.md"
+                "file": "test2.md"
               }
             }
           },
@@ -175,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -196,14 +188,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3f78a5cd2453c343",
+  "active": "47c3b8b64de8ea98",
   "lastOpenFiles": [
-    "2023-10-17.md",
+    "test1.md",
+    "test2.md",
     "최우진.md",
+    "2023-10-17.md",
     "무제 파일.canvas",
     "PORTFOLIO.md",
     "PRIVATE.md",
-    "test1.md",
     "Excalidraw/Drawing 2023-10-17 04.26.21.excalidraw.md",
     "MEMO.md",
     "개발자.md",
@@ -233,7 +226,6 @@
     "자료/Pasted image 20230926151540.png",
     "자료/Pasted image 20230926151531.png",
     "자료/Pasted Image 20230925002753_813.jpg",
-    "Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
     "TODO",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
