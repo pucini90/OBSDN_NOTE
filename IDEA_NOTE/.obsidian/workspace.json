@@ -26,19 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9d7063b029c1cc05",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,9 +153,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "9eb31a1b58a2538e",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -183,17 +180,18 @@
       "obsidian42-brat:BRAT": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9d7063b029c1cc05",
+  "active": "7527583e632d88df",
   "lastOpenFiles": [
+    "최우진.md",
+    "개발자.md",
+    "MEMO.md",
     "TODO/20231016.월.md",
     "PORTFOLIO.md",
-    "개발자.md",
-    "최우진.md",
     "무제 파일.canvas",
-    "MEMO.md",
     "CRAWLING/ERR_CASE/ERR_CASE_01.md",
     "CRAWLING/MANAGER.md",
     "CRAWLING/SCRUM/MANAGER.md",
