@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "최우진.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 243.5
   },
   "right": {
     "id": "38a1719c1990818b",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "최우진.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "최우진.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "최우진.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "6cb3d96222dc03e9",
+            "id": "027f76d940159a82",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -184,27 +184,30 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
+      "command-palette:명령어 팔레트 열기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "canvas:새 캔버스 만들기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "cef06942d6e544de",
+  "active": "3f78a5cd2453c343",
   "lastOpenFiles": [
-    "MEMO.md",
-    "무제 파일.md",
+    "2023-10-17.md",
     "최우진.md",
+    "무제 파일.canvas",
+    "PORTFOLIO.md",
+    "PRIVATE.md",
+    "test1.md",
+    "Excalidraw/Drawing 2023-10-17 04.26.21.excalidraw.md",
+    "MEMO.md",
     "개발자.md",
     "TODO/20231016.월.md",
-    "PORTFOLIO.md",
-    "무제 파일.canvas",
     "CRAWLING/ERR_CASE/ERR_CASE_01.md",
     "CRAWLING/MANAGER.md",
     "CRAWLING/SCRUM/MANAGER.md",
@@ -231,9 +234,6 @@
     "자료/Pasted image 20230926151531.png",
     "자료/Pasted Image 20230925002753_813.jpg",
     "Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
-    "CRAWLING/SCRUM/scrum_03.md",
-    "TODO/20231005.목.md",
     "TODO",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
