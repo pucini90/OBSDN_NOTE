@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d7063b029c1cc05",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +92,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,8 +186,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7527583e632d88df",
+  "active": "9d7063b029c1cc05",
   "lastOpenFiles": [
+    "TODO/20231016.월.md",
     "PORTFOLIO.md",
     "개발자.md",
     "최우진.md",
@@ -213,7 +225,6 @@
     "TODO/20231005.목.md",
     "TODO/20231004.수.md",
     "TODO",
-    "OBSIDIAN_OPTION/2023-09-25 OBSIDIAN_TEST.md",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "STUDY/004_PROGRAMMERS",
