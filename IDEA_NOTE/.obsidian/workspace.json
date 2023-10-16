@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cef06942d6e544de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEMO.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEMO.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEMO.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -155,7 +167,7 @@
             }
           },
           {
-            "id": "9eb31a1b58a2538e",
+            "id": "6cb3d96222dc03e9",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -167,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 552.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,11 +196,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7527583e632d88df",
+  "active": "cef06942d6e544de",
   "lastOpenFiles": [
+    "MEMO.md",
+    "무제 파일.md",
     "최우진.md",
     "개발자.md",
-    "MEMO.md",
     "TODO/20231016.월.md",
     "PORTFOLIO.md",
     "무제 파일.canvas",
@@ -221,7 +234,6 @@
     "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
     "CRAWLING/SCRUM/scrum_03.md",
     "TODO/20231005.목.md",
-    "TODO/20231004.수.md",
     "TODO",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
