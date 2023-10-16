@@ -11,4 +11,3 @@ gantt
 	section s2
 
 ```
-         
