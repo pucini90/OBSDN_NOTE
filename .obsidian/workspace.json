@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231017.화.md",
+                "file": "IDEA_NOTE/CRAWLING/ERR_CASE/ERR_CASE_01.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 308.5
   },
   "right": {
     "id": "7b5ea5a8f67a403b",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231017.화.md",
+                "file": "IDEA_NOTE/CRAWLING/ERR_CASE/ERR_CASE_01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231017.화.md",
+                "file": "IDEA_NOTE/CRAWLING/ERR_CASE/ERR_CASE_01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231017.화.md"
+                "file": "IDEA_NOTE/CRAWLING/ERR_CASE/ERR_CASE_01.md"
               }
             }
           }
@@ -176,8 +176,8 @@
   },
   "active": "e7b3751439aea23f",
   "lastOpenFiles": [
-    "IDEA_NOTE/Pasted image 20231013142101.png",
     "IDEA_NOTE/TODO/20231017.화.md",
+    "IDEA_NOTE/Pasted image 20231013142101.png",
     "README.md",
     "IDEA_NOTE/기존 crawler 시스템 분석 + 새로운 도입 시도 내용 검토 with 용호.md",
     "IDEA_NOTE/팀 회의 준비.md",
