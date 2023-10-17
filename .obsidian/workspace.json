@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d45895bb7cff691",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "93896a749384c705",
@@ -188,7 +199,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b87e037431bdeb7d",
+  "active": "9d45895bb7cff691",
   "lastOpenFiles": [
     "IDEA_NOTE/TODO/20231012.목.md",
     "IDEA_NOTE/TODO/20231016.월.md",
