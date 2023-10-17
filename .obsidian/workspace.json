@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/ERR_CASE/ERR_CASE_01.md",
+                "file": "IDEA_NOTE/MEMO.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/ERR_CASE/ERR_CASE_01.md",
+                "file": "IDEA_NOTE/MEMO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/ERR_CASE/ERR_CASE_01.md",
+                "file": "IDEA_NOTE/MEMO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/ERR_CASE/ERR_CASE_01.md"
+                "file": "IDEA_NOTE/MEMO.md"
               }
             }
           }
@@ -176,6 +176,7 @@
   },
   "active": "e7b3751439aea23f",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/ERR_CASE/ERR_CASE_01.md",
     "IDEA_NOTE/TODO/20231017.화.md",
     "IDEA_NOTE/Pasted image 20231013142101.png",
     "README.md",
@@ -193,7 +194,6 @@
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_05.md",
     "IDEA_NOTE/STUDY/002_MARKDOWN.md",
     "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
-    "IDEA_NOTE/CRAWLING/ERR_CASE/ERR_CASE_01.md",
     "Obsidian.md",
     "[Obsidian.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_04.md",
