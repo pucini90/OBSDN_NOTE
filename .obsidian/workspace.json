@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231018.수.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231018.수.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231018.수.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231018.수.md"
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md"
               }
             }
           }
@@ -153,12 +153,15 @@
   },
   "active": "e7b3751439aea23f",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_05.md",
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
+    "IDEA_NOTE/TODO/20231018.수.md",
     "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
     "TEST_OBSIDIAN",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
-    "IDEA_NOTE/TODO/20231018.수.md",
     "IDEA_NOTE/PROJECT/SIDE/03_DJANGO",
     "IDEA_NOTE/PROJECT/SIDE/02_PLAYWRIGHT",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료",
@@ -185,9 +188,6 @@
     "IDEA_NOTE/PRIVATE/PRIVATE.md",
     "IDEA_NOTE/PRIVATE/주간 현행화.md",
     "IDEA_NOTE/PRIVATE/최우진.md",
-    "IDEA_NOTE/PRIVATE/팀 회의 준비.md",
-    "IDEA_NOTE/PRIVATE/MEMO.md",
-    "IDEA_NOTE/PRIVATE/MZ 현행화 관리.md",
     "IDEA_NOTE/PRIVATE/Pasted image 20231013141930.png",
     "IDEA_NOTE/PRIVATE/Pasted image 20231013142101.png",
     "IDEA_NOTE/무제 파일.canvas",
