@@ -11,11 +11,9 @@
             "id": "e7b3751439aea23f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
-                "mode": "source",
-                "source": false
+                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
+                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
+                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +123,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md"
+                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,16 +143,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e7b3751439aea23f",
+  "active": "73c958199096b504",
   "lastOpenFiles": [
+    "TEST_OBSIDIAN",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
+    "IDEA_NOTE/TODO/20231018.수.md",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
+    "IDEA_NOTE/PROJECT/SIDE/03_DJANGO",
+    "IDEA_NOTE/PROJECT/SIDE/02_PLAYWRIGHT",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료",
     "IDEA_NOTE/PRIVATE/개발자.md",
     "IDEA_NOTE/PROJECT/SIDE/Untitled.md",
@@ -165,7 +169,6 @@
     "IDEA_NOTE/STUDY/002_MARKDOWN.md",
     "IDEA_NOTE/STUDY/003_GIT.md",
     "IDEA_NOTE/STUDY/004_PROGRAMMERS.md",
-    "IDEA_NOTE/TODO/20231018.수.md",
     "IDEA_NOTE/TODO/20231016.월.md",
     "IDEA_NOTE/TODO/20231017.화.md",
     "IDEA_NOTE/TODO/20231011.수.md",
@@ -197,8 +200,6 @@
     "IDEA_NOTE/CRAWLING/IDEA",
     "IDEA_NOTE/자료/Pasted image 20230926151758.png",
     "IDEA_NOTE/자료/Pasted image 20230926151708.png",
-    "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg",
-    "IDEA_NOTE/CRAWLING/SCRUM",
-    "IDEA_NOTE/CRAWLING/ERR_CASE"
+    "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg"
   ]
 }
