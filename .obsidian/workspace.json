@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
+                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
+                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
+                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md"
+                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md"
               }
             }
           }
@@ -149,10 +149,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "73c958199096b504",
+  "active": "e7b3751439aea23f",
   "lastOpenFiles": [
-    "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
+    "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료",
     "IDEA_NOTE/PRIVATE/개발자.md",
