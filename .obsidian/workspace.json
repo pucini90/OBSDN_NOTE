@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231018.수.md",
+                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231018.수.md",
+                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231018.수.md",
+                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/TODO/20231018.수.md"
+                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md"
               }
             }
           }
@@ -149,36 +149,41 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e7b3751439aea23f",
+  "active": "73c958199096b504",
   "lastOpenFiles": [
+    "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
+    "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
+    "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
+    "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료",
+    "IDEA_NOTE/PRIVATE/개발자.md",
+    "IDEA_NOTE/PROJECT/SIDE/Untitled.md",
+    "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER",
+    "IDEA_NOTE/PROJECT/SIDE",
+    "IDEA_NOTE/PROJECT",
+    "IDEA_NOTE/PRIVATE",
+    "IDEA_NOTE/STUDY/001_OBSIDIAN.md",
+    "IDEA_NOTE/STUDY/002_MARKDOWN.md",
+    "IDEA_NOTE/STUDY/003_GIT.md",
+    "IDEA_NOTE/STUDY/004_PROGRAMMERS.md",
+    "IDEA_NOTE/TODO/20231018.수.md",
     "IDEA_NOTE/TODO/20231016.월.md",
     "IDEA_NOTE/TODO/20231017.화.md",
     "IDEA_NOTE/TODO/20231011.수.md",
     "IDEA_NOTE/TODO/20231010.월.md",
     "IDEA_NOTE/TODO/20231005.목.md",
     "IDEA_NOTE/TODO/20231004.수.md",
-    "IDEA_NOTE/TODO/20231018.수.md",
-    "IDEA_NOTE/기존 crawler 시스템 분석 + 새로운 도입 시도 내용 검토 with 용호.md",
+    "IDEA_NOTE/PRIVATE/기존 crawler 시스템 분석 + 새로운 도입 시도 내용 검토 with 용호.md",
     "README.md",
-    "IDEA_NOTE/test2.md",
-    "IDEA_NOTE/test1.md",
-    "IDEA_NOTE/PRIVATE.md",
-    "IDEA_NOTE/개발자.md",
-    "IDEA_NOTE/주간 현행화.md",
-    "IDEA_NOTE/최우진.md",
-    "IDEA_NOTE/팀 회의 준비.md",
-    "IDEA_NOTE/MEMO.md",
-    "IDEA_NOTE/MZ 현행화 관리.md",
-    "IDEA_NOTE/Pasted image 20231013141930.png",
-    "IDEA_NOTE/Pasted image 20231013142101.png",
-    "IDEA_NOTE/CRAWLING/ERR_CASE/ERR_CASE_01.md",
-    "IDEA_NOTE/Excalidraw/Drawing 2023-10-17 04.26.21.excalidraw.md",
-    "IDEA_NOTE/TODO/20231012.목.md",
-    "IDEA_NOTE/CRAWLING/MANAGER.md",
-    "IDEA_NOTE/CRAWLING/SCRUM/scrum_05.md",
-    "IDEA_NOTE/STUDY/002_MARKDOWN.md",
-    "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
-    "Obsidian.md",
+    "IDEA_NOTE/PRIVATE/test2.md",
+    "IDEA_NOTE/PRIVATE/test1.md",
+    "IDEA_NOTE/PRIVATE/PRIVATE.md",
+    "IDEA_NOTE/PRIVATE/주간 현행화.md",
+    "IDEA_NOTE/PRIVATE/최우진.md",
+    "IDEA_NOTE/PRIVATE/팀 회의 준비.md",
+    "IDEA_NOTE/PRIVATE/MEMO.md",
+    "IDEA_NOTE/PRIVATE/MZ 현행화 관리.md",
+    "IDEA_NOTE/PRIVATE/Pasted image 20231013141930.png",
+    "IDEA_NOTE/PRIVATE/Pasted image 20231013142101.png",
     "IDEA_NOTE/무제 파일.canvas",
     "IDEA_NOTE/CRAWLING/COLLEAGUE",
     "IDEA_NOTE/자료/Pasted Image 20231006082049_567.png",
@@ -194,8 +199,6 @@
     "IDEA_NOTE/자료/Pasted image 20230926151708.png",
     "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg",
     "IDEA_NOTE/CRAWLING/SCRUM",
-    "IDEA_NOTE/CRAWLING/ERR_CASE",
-    "IDEA_NOTE/CRAWLING",
-    "IDEA_NOTE/자료"
+    "IDEA_NOTE/CRAWLING/ERR_CASE"
   ]
 }
