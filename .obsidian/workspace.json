@@ -11,9 +11,11 @@
             "id": "e7b3751439aea23f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png"
+                "file": "IDEA_NOTE/TODO/20231018.수.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
+                "file": "IDEA_NOTE/TODO/20231018.수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
+                "file": "IDEA_NOTE/TODO/20231018.수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png"
+                "file": "IDEA_NOTE/TODO/20231018.수.md"
               }
             }
           }
@@ -149,13 +151,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "73c958199096b504",
+  "active": "e7b3751439aea23f",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
+    "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
     "TEST_OBSIDIAN",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
     "IDEA_NOTE/TODO/20231018.수.md",
-    "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
     "IDEA_NOTE/PROJECT/SIDE/03_DJANGO",
     "IDEA_NOTE/PROJECT/SIDE/02_PLAYWRIGHT",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료",
@@ -197,7 +200,6 @@
     "IDEA_NOTE/TODO",
     "IDEA_NOTE/자료/Pasted image 20230926151540.png",
     "IDEA_NOTE/자료/Pasted image 20230926151901.png",
-    "IDEA_NOTE/CRAWLING/IDEA",
     "IDEA_NOTE/자료/Pasted image 20230926151758.png",
     "IDEA_NOTE/자료/Pasted image 20230926151708.png",
     "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg"
