@@ -23,11 +23,9 @@
             "id": "df8a061450160283",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
-                "mode": "source",
-                "source": false
+                "file": "IDEA_NOTE/CRAWLING/MANAGER.md"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
+                "file": "IDEA_NOTE/CRAWLING/MANAGER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
+                "file": "IDEA_NOTE/CRAWLING/MANAGER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md"
+                "file": "IDEA_NOTE/CRAWLING/MANAGER.md"
               }
             }
           }
@@ -166,8 +164,14 @@
   },
   "active": "df8a061450160283",
   "lastOpenFiles": [
-    "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
+    "IDEA_NOTE/STUDY/001_OBSIDIAN.md",
+    "IDEA_NOTE/STUDY/002_MARKDOWN.md",
+    "IDEA_NOTE/STUDY/003_GIT.md",
+    "IDEA_NOTE/STUDY/004_PROGRAMMERS.md",
+    "IDEA_NOTE/PRIVATE/팀 회의 준비.md",
+    "IDEA_NOTE/CRAWLING/MANAGER.md",
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
     "IDEA_NOTE/TODO/1019목.md",
     "IDEA_NOTE/TODO/20231018.수.md",
@@ -175,7 +179,6 @@
     "IDEA_NOTE/CRAWLING/ERR_CASE/ERR_CASE_01.md",
     "Excalidraw/Drawing 2023-10-19 17.50.18.excalidraw.md",
     "Excalidraw",
-    "IDEA_NOTE/CRAWLING/MANAGER.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_05.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_02.md",
     "IDEA_NOTE/CRAWLING/COLLEAGUE/이기세.md",
@@ -192,16 +195,11 @@
     "IDEA_NOTE/PROJECT/SIDE",
     "IDEA_NOTE/PROJECT",
     "IDEA_NOTE/PRIVATE",
-    "IDEA_NOTE/STUDY/001_OBSIDIAN.md",
-    "IDEA_NOTE/STUDY/002_MARKDOWN.md",
-    "IDEA_NOTE/STUDY/003_GIT.md",
-    "IDEA_NOTE/STUDY/004_PROGRAMMERS.md",
     "IDEA_NOTE/TODO/20231016.월.md",
     "IDEA_NOTE/TODO/20231017.화.md",
     "IDEA_NOTE/TODO/20231011.수.md",
     "IDEA_NOTE/TODO/20231010.월.md",
     "IDEA_NOTE/TODO/20231005.목.md",
-    "IDEA_NOTE/TODO/20231004.수.md",
     "IDEA_NOTE/PRIVATE/Pasted image 20231013141930.png",
     "IDEA_NOTE/PRIVATE/Pasted image 20231013142101.png",
     "IDEA_NOTE/무제 파일.canvas",
