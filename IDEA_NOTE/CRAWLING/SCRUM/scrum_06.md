@@ -36,10 +36,6 @@
 	1. 역할 분담해서 영역마다 정기적으로 데이터 관리하자 - 혼자 힘들어요
 	2. 용호님 - 연금/연금저축
 
-5. fincette-crawler 분석
+5. fincette-crawler 분석 내용 공유?!
 
-KYO_ASV_F001
 
-TYL_DSS_F017
-
-SHL_DSS_F005

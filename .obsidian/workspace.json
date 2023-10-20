@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
+                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
+                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
+                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md"
+                "file": "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md"
               }
             }
           }
@@ -153,11 +153,11 @@
   },
   "active": "e7b3751439aea23f",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
     "IDEA_NOTE/TODO/1019목.md",
     "IDEA_NOTE/TODO/20231018.수.md",
     "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
     "IDEA_NOTE/CRAWLING/ERR_CASE/ERR_CASE_01.md",
-    "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
     "Excalidraw/Drawing 2023-10-19 17.50.18.excalidraw.md",
     "Excalidraw",
     "IDEA_NOTE/CRAWLING/MANAGER.md",
