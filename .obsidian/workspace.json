@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df8a061450160283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "7b5ea5a8f67a403b",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md"
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md"
               }
             }
           }
@@ -152,10 +164,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e7b3751439aea23f",
+  "active": "df8a061450160283",
   "lastOpenFiles": [
-    "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
+    "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
     "IDEA_NOTE/TODO/1019목.md",
     "IDEA_NOTE/TODO/20231018.수.md",
     "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
@@ -189,7 +202,6 @@
     "IDEA_NOTE/TODO/20231010.월.md",
     "IDEA_NOTE/TODO/20231005.목.md",
     "IDEA_NOTE/TODO/20231004.수.md",
-    "IDEA_NOTE/PRIVATE/기존 crawler 시스템 분석 + 새로운 도입 시도 내용 검토 with 용호.md",
     "IDEA_NOTE/PRIVATE/Pasted image 20231013141930.png",
     "IDEA_NOTE/PRIVATE/Pasted image 20231013142101.png",
     "IDEA_NOTE/무제 파일.canvas",
