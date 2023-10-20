@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md"
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md"
               }
             }
           }
@@ -166,8 +166,8 @@
   },
   "active": "df8a061450160283",
   "lastOpenFiles": [
-    "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
     "IDEA_NOTE/TODO/1019목.md",
     "IDEA_NOTE/TODO/20231018.수.md",
