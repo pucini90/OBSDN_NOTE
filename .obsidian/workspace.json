@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/자료/Pasted image 20231026134938.png",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/자료/Pasted image 20231026134938.png",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/자료/Pasted image 20231026134938.png"
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md"
               }
             }
           }
@@ -182,12 +181,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "73c958199096b504",
+  "active": "e7b3751439aea23f",
   "lastOpenFiles": [
-    "IDEA_NOTE/자료/Pasted image 20231026135015.png",
-    "IDEA_NOTE/자료/Pasted image 20231026134938.png",
-    "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
+    "IDEA_NOTE/자료/Pasted image 20231026134938.png",
+    "IDEA_NOTE/자료/Pasted image 20231026135015.png",
     "IDEA_NOTE/TODO/Untitled.md",
     "IDEA_NOTE/TODO/1019목.md",
     "IDEA_NOTE/STUDY/004_PROGRAMMERS.md",
