@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "002b54241d8d4772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "df8a061450160283",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#idea02_크롤링",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
+                "file": "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
+                "file": "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md"
+                "file": "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md"
               }
             }
           }
@@ -181,14 +194,26 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e7b3751439aea23f",
+  "active": "002b54241d8d4772",
   "lastOpenFiles": [
-    "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
+    "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_02.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
+    "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
+    "idea01_크롤링 방식 변경.md",
+    "IDEA_NOTE/Excalidraw/Drawing 2023-10-17 04.26.21.excalidraw.md",
+    "IDEA_NOTE/Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
+    "IDEA_NOTE/Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
+    "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
+    "IDEA_NOTE/CRAWLING/COLLEAGUE/변재우.md",
+    "IDEA_NOTE/CRAWLING/COLLEAGUE/노우정.md",
+    "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg",
     "IDEA_NOTE/자료/Pasted image 20231026134938.png",
     "IDEA_NOTE/자료/Pasted image 20231026135015.png",
-    "IDEA_NOTE/TODO/Untitled.md",
+    "Excalidraw/Drawing 2023-10-19 17.50.18.excalidraw.md",
     "IDEA_NOTE/TODO/1019목.md",
+    "IDEA_NOTE/TODO/20231018.수.md",
+    "IDEA_NOTE/TODO/Untitled.md",
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
     "IDEA_NOTE/STUDY/004_PROGRAMMERS.md",
     "IDEA_NOTE/CRAWLING/MANAGER.md",
     "IDEA_NOTE/STUDY/001_OBSIDIAN.md",
@@ -196,30 +221,20 @@
     "IDEA_NOTE/STUDY/003_GIT.md",
     "IDEA_NOTE/PRIVATE/팀 회의 준비.md",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
-    "IDEA_NOTE/TODO/20231018.수.md",
-    "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
     "IDEA_NOTE/CRAWLING/ERR_CASE/ERR_CASE_01.md",
-    "Excalidraw/Drawing 2023-10-19 17.50.18.excalidraw.md",
     "Excalidraw",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_05.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_02.md",
     "IDEA_NOTE/CRAWLING/COLLEAGUE/이기세.md",
-    "IDEA_NOTE/CRAWLING/COLLEAGUE/이다인.md",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
     "TEST_OBSIDIAN",
-    "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
     "IDEA_NOTE/PROJECT/SIDE/03_DJANGO",
     "IDEA_NOTE/PROJECT/SIDE/02_PLAYWRIGHT",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/자료",
-    "IDEA_NOTE/PRIVATE/개발자.md",
-    "IDEA_NOTE/PROJECT/SIDE/Untitled.md",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER",
     "IDEA_NOTE/PROJECT/SIDE",
     "IDEA_NOTE/PROJECT",
     "IDEA_NOTE/PRIVATE",
-    "IDEA_NOTE/TODO/20231016.월.md",
-    "IDEA_NOTE/TODO/20231017.화.md",
-    "IDEA_NOTE/TODO/20231011.수.md",
     "IDEA_NOTE/PRIVATE/Pasted image 20231013141930.png",
     "IDEA_NOTE/PRIVATE/Pasted image 20231013142101.png",
     "IDEA_NOTE/무제 파일.canvas",
@@ -230,7 +245,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "IDEA_NOTE/자료/Pasted image 20230926151540.png",
-    "IDEA_NOTE/자료/Pasted image 20230926151901.png",
-    "IDEA_NOTE/자료/Pasted image 20230926151758.png"
+    "IDEA_NOTE/자료/Pasted image 20230926151901.png"
   ]
 }
