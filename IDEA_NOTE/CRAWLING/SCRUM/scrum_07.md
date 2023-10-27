@@ -80,3 +80,10 @@
 	2. (예제) HNF_CCR_F018
 		![[Pasted image 20231026134938.png]]
 		![[Pasted image 20231026135015.png]]
+
+05. 연령에 관련된 로직들 스크립트상에 추가할 필요
+	- ex. 65세까지 크롤링 되어야 하는데 60세까지만 크롤링 되는 경우에 대해서 validation 추가
+
+06. GIT 정책
+	1. fincette-crawler : : git 정책 없음
+	2. nuzal-web : : dev > stg > prd 순 / prd push는 pr로 대체
