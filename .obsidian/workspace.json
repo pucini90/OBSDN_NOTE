@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
+                "file": "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_02.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
+                "file": "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,9 +145,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
+                "file": "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_02.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -168,17 +168,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md"
+                "file": "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_02.md"
               }
+            }
+          },
+          {
+            "id": "4183a5da931f61b9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,14 +197,15 @@
       "command-palette:Open command palette": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-full-calendar:Open Full Calendar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "002b54241d8d4772",
+  "active": "4183a5da931f61b9",
   "lastOpenFiles": [
-    "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_02.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
+    "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_02.md",
     "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
     "idea01_크롤링 방식 변경.md",
     "IDEA_NOTE/Excalidraw/Drawing 2023-10-17 04.26.21.excalidraw.md",
