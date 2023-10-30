@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/STUDY/002_MARKDOWN.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_08.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/STUDY/002_MARKDOWN.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/STUDY/002_MARKDOWN.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/STUDY/002_MARKDOWN.md"
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_08.md"
               }
             }
           },
@@ -204,10 +204,11 @@
   },
   "active": "002b54241d8d4772",
   "lastOpenFiles": [
+    "IDEA_NOTE/STUDY/002_MARKDOWN.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_08.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
-    "IDEA_NOTE/CRAWLING/SCRUM/scrum_01.md",
     "IDEA_NOTE/CRAWLING/MANAGER.md",
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_01.md",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
     "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
     "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_02.md",
@@ -228,7 +229,6 @@
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
     "IDEA_NOTE/STUDY/004_PROGRAMMERS.md",
     "IDEA_NOTE/STUDY/001_OBSIDIAN.md",
-    "IDEA_NOTE/STUDY/002_MARKDOWN.md",
     "IDEA_NOTE/STUDY/003_GIT.md",
     "IDEA_NOTE/PRIVATE/팀 회의 준비.md",
     "IDEA_NOTE/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
