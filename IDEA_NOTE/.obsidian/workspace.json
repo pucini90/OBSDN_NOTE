@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRAWLING/COLLEAGUE/위강은.md",
+                "file": "CRAWLING/SCRUM/scrum_08.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRAWLING/COLLEAGUE/위강은.md",
+                "file": "CRAWLING/SCRUM/scrum_08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRAWLING/COLLEAGUE/위강은.md",
+                "file": "CRAWLING/SCRUM/scrum_08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRAWLING/COLLEAGUE/위강은.md"
+                "file": "CRAWLING/SCRUM/scrum_08.md"
               }
             }
           },
@@ -153,12 +153,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 552.5
+    "width": 354.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +177,14 @@
   },
   "active": "75ec586c9d115136",
   "lastOpenFiles": [
+    "CRAWLING/IDEA/크롤링 방식 변경_01.md",
+    "CRAWLING/IDEA/크롤링 방식 변경_02.md",
+    "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
+    "CRAWLING/ERR_CASE/ERR_CASE_01.md",
+    "CRAWLING/COLLEAGUE/이기세.md",
+    "CRAWLING/COLLEAGUE/위강은.md",
     "CRAWLING/COLLEAGUE/서용호.md",
     "CRAWLING/COLLEAGUE/변재우.md",
-    "CRAWLING/COLLEAGUE/위강은.md",
-    "CRAWLING/COLLEAGUE/이기세.md",
     "CRAWLING/COLLEAGUE/노우정.md",
     "자료/Pasted image 20231013142101.png",
     "자료/Pasted Image 20230925002753_813.jpg",
@@ -202,10 +206,6 @@
     "PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
     "PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
     "STUDY/001_OBSIDIAN.md",
-    "STUDY/002_MARKDOWN.md",
-    "STUDY/003_GIT.md",
-    "STUDY/004_PROGRAMMERS.md",
-    "TODO/Untitled.md",
     "자료/Pasted image 20231026135015.png",
     "자료/Pasted image 20231026134938.png",
     "PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
