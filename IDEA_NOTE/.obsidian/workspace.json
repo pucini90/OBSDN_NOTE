@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8f42418a8288a5c6",
+        "id": "641b57248cfd1dc6",
         "type": "tabs",
         "children": [
           {
-            "id": "47c3b8b64de8ea98",
+            "id": "75ec586c9d115136",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CRAWLING/COLLEAGUE/위강은.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#excalidraw :excalidraw ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CRAWLING/COLLEAGUE/위강은.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CRAWLING/COLLEAGUE/위강은.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CRAWLING/COLLEAGUE/위강은.md"
+              }
             }
           },
           {
@@ -167,52 +175,52 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "47c3b8b64de8ea98",
+  "active": "75ec586c9d115136",
   "lastOpenFiles": [
-    "CRAWLING/SCRUM/scrum_06.md",
-    "MEMO.md",
-    "TODO/20231018.수.md",
-    "PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
-    "PROJECT/SIDE/01_P_CRAWLER/자료",
+    "CRAWLING/COLLEAGUE/서용호.md",
+    "CRAWLING/COLLEAGUE/변재우.md",
+    "CRAWLING/COLLEAGUE/위강은.md",
+    "CRAWLING/COLLEAGUE/이기세.md",
+    "CRAWLING/COLLEAGUE/노우정.md",
+    "자료/Pasted image 20231013142101.png",
+    "자료/Pasted Image 20230925002753_813.jpg",
+    "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
+    "OBSIDIAN_OPTION/GIT_PERSONAL_TOKEN.md",
+    "OBSIDIAN_OPTION/2023-09-25 OBSIDIAN_TEST.md",
+    "OBSIDIAN_OPTION/OBSIDIAN_SORT.md",
+    "PRIVATE/기존 crawler 시스템 분석 + 새로운 도입 시도 내용 검토 with 용호.md",
+    "PRIVATE/주간 현행화.md",
+    "PRIVATE/최우진.md",
+    "PRIVATE/팀 회의 준비.md",
+    "PRIVATE/MEMO.md",
+    "PRIVATE/test2.md",
+    "PRIVATE/MZ 현행화 관리.md",
+    "PRIVATE/test1.md",
+    "PRIVATE/PRIVATE.md",
+    "자료/Pasted image 20231013141930.png",
     "PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
     "PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
+    "STUDY/001_OBSIDIAN.md",
+    "STUDY/002_MARKDOWN.md",
+    "STUDY/003_GIT.md",
+    "STUDY/004_PROGRAMMERS.md",
+    "TODO/Untitled.md",
+    "자료/Pasted image 20231026135015.png",
+    "자료/Pasted image 20231026134938.png",
+    "PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
+    "PROJECT/SIDE/01_P_CRAWLER/자료",
     "PROJECT/SIDE/01_P_CRAWLER",
     "PROJECT/SIDE",
     "PROJECT",
-    "PRIVATE/팀 회의 준비.md",
-    "PRIVATE/최우진.md",
-    "PRIVATE/주간 현행화.md",
-    "PRIVATE/기존 crawler 시스템 분석 + 새로운 도입 시도 내용 검토 with 용호.md",
-    "PRIVATE/개발자.md",
-    "PRIVATE/test2.md",
-    "PRIVATE/test1.md",
-    "PRIVATE/Pasted image 20231013142101.png",
-    "PRIVATE/Pasted image 20231013141930.png",
-    "PRIVATE/PRIVATE.md",
-    "PRIVATE/PORTFOLIO.md",
-    "PRIVATE/MZ 현행화 관리.md",
-    "PRIVATE/MEMO.md",
     "PRIVATE",
-    "PORTFOLIO.md",
-    "test2.md",
-    "팀 회의 준비.md",
-    "주간 현행화.md",
-    "기존 crawler 시스템 분석 + 새로운 도입 시도 내용 검토 with 용호.md",
-    "TODO/20231017.화.md",
     "Pasted image 20231013142101.png",
     "Pasted image 20231013141930.png",
-    "MZ 현행화 관리.md",
-    "test1.md",
-    "최우진.md",
-    "2023-10-17.md",
     "무제 파일.canvas",
     "CRAWLING/COLLEAGUE",
     "CRAWLING/ERR_CASE",
     "자료/Pasted Image 20231006082049_567.png",
     "자료/Pasted image 20230926151901.png",
-    "자료/Pasted image 20230926151758.png",
-    "자료/Pasted image 20230926151708.png",
-    "자료/Pasted image 20230926151540.png",
     "TODO",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
