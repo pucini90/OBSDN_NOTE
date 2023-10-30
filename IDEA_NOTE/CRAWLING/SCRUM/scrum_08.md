@@ -35,3 +35,4 @@
 				- Actions - SE계열이라 대개 화면상 변화 없음 (랜더링전으로 인식하는 듯 함)
 				- 현재는 특정한 이벤트 발생시킨 후, 다시 해당 엘리먼트 찾음 (ex. jse.scrollTo() )
 			- 자체 Document 객체에 접근할 방법 찾을 필요 있음
+			- escape character 처리 유틸기능 필요
