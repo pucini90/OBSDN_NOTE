@@ -28,7 +28,8 @@
 
 04. CODE_REVIEW
 	1. 자체 랜더링 시점이 있는 프론트 프레임워크
-		- 대부분 최신 프론트 프레임워크는 자체DOCUMENT(?) 사용중 / ex. React, Vue, Angular...
+		- 대부분 최신 프론트 프레임워크는 자체DOCUMENT(?) 사용중 
+			- / ex. React, Vue, Angular...
 		- ANGULAR - ex. KBF_CHL_D012 (ex. ng-container)
 			- SE은 기본 랜더링된 이후 HTML을 읽어서 내용을 긁는 방식 (동적변경 이후 읽음)
 			- 엥귤러 같은 자체 랜더링 시점이 있는 프론트 라이브러리 사용하는 경우 있음
