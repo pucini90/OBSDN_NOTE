@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,8 +176,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "75ec586c9d115136",
+  "active": "f618c90ec01e5fb1",
   "lastOpenFiles": [
+    "CRAWLING/Related Policies.md",
     "CRAWLING/IDEA/크롤링 방식 변경_01.md",
     "CRAWLING/IDEA/크롤링 방식 변경_02.md",
     "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
@@ -205,7 +207,6 @@
     "자료/Pasted image 20231013141930.png",
     "PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
     "PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
-    "STUDY/001_OBSIDIAN.md",
     "자료/Pasted image 20231026135015.png",
     "자료/Pasted image 20231026134938.png",
     "PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
