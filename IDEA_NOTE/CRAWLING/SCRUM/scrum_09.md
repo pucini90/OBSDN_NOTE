@@ -26,7 +26,9 @@
 	- 코드 관리
 
 - GIT 정책
-- 
+	- fincette-crawler
+
+	- 
 
 ### 03. REVIEW	
 
@@ -49,5 +51,6 @@
 
 4-2
 	![[Pasted image 20231101212341.png]]
+
 
 5. GIT
