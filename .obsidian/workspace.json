@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/COLLEAGUE/변재우.md",
+                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "7b5ea5a8f67a403b",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/COLLEAGUE/변재우.md",
+                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/COLLEAGUE/변재우.md",
+                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/COLLEAGUE/변재우.md"
+                "file": "IDEA_NOTE/CRAWLING/Related Policies.md"
               }
             }
           },
@@ -205,6 +204,7 @@
   },
   "active": "002b54241d8d4772",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/COLLEAGUE/변재우.md",
     "IDEA_NOTE/CRAWLING/Related Policies.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_08.md",
     "IDEA_NOTE/PRIVATE/주간 현행화.md",
@@ -232,7 +232,6 @@
     "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
     "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_02.md",
     "idea01_크롤링 방식 변경.md",
-    "IDEA_NOTE/Excalidraw/Drawing 2023-10-17 04.26.21.excalidraw.md",
     "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg",
     "IDEA_NOTE/자료/Pasted image 20231026134938.png",
     "IDEA_NOTE/자료/Pasted image 20231026135015.png",
