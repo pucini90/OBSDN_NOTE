@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_08.md",
+                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_08.md",
+                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_08.md",
+                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_08.md"
+                "file": "IDEA_NOTE/CRAWLING/Related Policies.md"
               }
             }
           },
@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,6 +204,7 @@
   },
   "active": "002b54241d8d4772",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_08.md",
     "IDEA_NOTE/CRAWLING/Related Policies.md",
     "IDEA_NOTE/PRIVATE/주간 현행화.md",
     "IDEA_NOTE/CRAWLING/MANAGER.md",
@@ -220,7 +221,6 @@
     "IDEA_NOTE/PRIVATE/PRIVATE.md",
     "IDEA_NOTE/PRIVATE/test2.md",
     "IDEA_NOTE/PRIVATE/test1.md",
-    "IDEA_NOTE/CRAWLING/SCRUM/scrum_08.md",
     "README.md",
     "IDEA_NOTE/자료/Pasted image 20231013142101.png",
     "IDEA_NOTE/자료/Pasted image 20231013141930.png",
