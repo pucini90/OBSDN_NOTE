@@ -25,6 +25,9 @@
 	- GIT 관리, 관련 정책과 연계
 	- 코드 관리
 
+- GIT 정책
+- 
+
 ### 03. REVIEW	
 
 3-1 에러케이스  	
@@ -39,6 +42,12 @@
 
 ### 04. CODE_REVIEW
 
+4-1
 	![[Pasted image 20231101200931.png]]
 	
 	sendKeys(Keys.chord(Keys.CONTROL, "a", Keys.DELETE));
+
+4-2
+	![[Pasted image 20231101212341.png]]
+
+5. GIT
