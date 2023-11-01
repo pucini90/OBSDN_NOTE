@@ -51,6 +51,7 @@
 	![[Pasted image 20231101200931.png]]
 	
 	sendKeys(Keys.chord(Keys.CONTROL, "a", Keys.DELETE));
+	actions.moveByOffset(0, 0).click().build().perform();
 
 4-2
 	![[Pasted image 20231101212341.png]]
