@@ -6,27 +6,34 @@
 ### 01. CRAWLING_TASK
 	
 	[[노우정]]
+	- 이상없음
+	- 특정 성별만 하는 케이스 (작업중)
 
 	[[변재우]]
+	- 이상없음
 
 	[[서용호]]
+	- 이상없음
 
 	[[위강은]]
+	- 이상없음
 
 	[[최우진]] 
+	- 개수가 있지만 큰 이슈없음
 
 	[[이기세]]
+	- 이상없음 
 
-02. [데이터 수집 개선사항 관리 시트](https://docs.google.com/spreadsheets/d/1hzfj9y8lSPy5eplOKX50IKlCoEuUKZI_TaJT-OlgqBk/edit#gid=1495740114) 
+1. [데이터 수집 개선사항 관리 시트](https://docs.google.com/spreadsheets/d/1hzfj9y8lSPy5eplOKX50IKlCoEuUKZI_TaJT-OlgqBk/edit#gid=1495740114) 
 	- 구글 시트 
-	- 작성 예시
+	- 작성 예시 
 
-03. [CODE_CONVENTION](https://www.notion.so/05-CODE_CONVENTION-d2bf9022dfaf42a2a7fca341d99fa1b6?pvs=4)
+2. [CODE_CONVENTION](https://www.notion.so/05-CODE_CONVENTION-d2bf9022dfaf42a2a7fca341d99fa1b6?pvs=4)
 	- NOTION
 	- 주기적으로 리마인드
 	- 확인 및 수정 가능 체크 필요
 
-04. CODE_REVIEW
+3. CODE_REVIEW
 	1. 자체 랜더링 시점이 있는 프론트 프레임워크
 		- 대부분 최신 프론트 프레임워크는 자체DOCUMENT(?) 사용중 
 			- / ex. React, Vue, Angular...
