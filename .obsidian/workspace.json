@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
+                "file": "IDEA_NOTE/CRAWLING/COLLEAGUE/이기세.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
+                "file": "IDEA_NOTE/CRAWLING/COLLEAGUE/이기세.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
+                "file": "IDEA_NOTE/CRAWLING/COLLEAGUE/이기세.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Related Policies.md"
+                "file": "IDEA_NOTE/CRAWLING/COLLEAGUE/이기세.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "e7b3751439aea23f",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/Related Policies.md",
     "IDEA_NOTE/STUDY/001_OBSIDIAN.md",
     "IDEA_NOTE/STUDY/002_MARKDOWN.md",
     "IDEA_NOTE/STUDY/003. GIT.md",
@@ -168,7 +169,6 @@
     "IDEA_NOTE/STUDY/005. JSON.md",
     "IDEA_NOTE/STUDY/006. XPATH.md",
     "IDEA_NOTE/PRIVATE/test2.md",
-    "IDEA_NOTE/CRAWLING/Related Policies.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
     "Pasted image 20231101212341.png",
     "Pasted image 20231101200931.png",
