@@ -87,3 +87,6 @@ MAIN / PROD / FEAT / EMERGENCY
 ### 08. SFI_MDC_D005
 
 	SFI_MDC_D005 상품가입연령 19세 이상으로 되어 있는 이유
+
+DBF_AMD_F004
+DBF_AMD_D005
