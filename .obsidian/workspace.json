@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
+                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
+                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
+                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md"
+                "file": "IDEA_NOTE/CRAWLING/Related Policies.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "e7b3751439aea23f",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
     "image (20).png",
     "image (19).png",
     "IDEA_NOTE/CRAWLING/Crawling Memo.md",
@@ -169,7 +170,6 @@
     "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg",
     "IDEA_NOTE/자료/Pasted image 20231101200239.png",
     "IDEA_NOTE/CRAWLING/COLLEAGUE/위강은.md",
-    "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
     "IDEA_NOTE/자료/Pasted image 20231102115436.png",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_08.md",
     "IDEA_NOTE/CRAWLING/Related Policies.md",
@@ -192,7 +192,6 @@
     "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_02.md",
     "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
     "IDEA_NOTE/자료/Pasted image 20231026134938.png",
-    "IDEA_NOTE/자료/Pasted image 20231026135015.png",
     "IDEA_NOTE/CRAWLING/MANAGER.md",
     "IDEA_NOTE/CRAWLING/표준화.md",
     "IDEA_NOTE/CRAWLING/COLLEAGUE/변재우.md",
