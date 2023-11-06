@@ -11,11 +11,9 @@
             "id": "e7b3751439aea23f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
-                "mode": "source",
-                "source": false
+                "file": "IDEA_NOTE/Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
+                "file": "IDEA_NOTE/Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
+                "file": "IDEA_NOTE/Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md"
+                "file": "IDEA_NOTE/Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md"
               }
             }
           },
@@ -161,14 +159,14 @@
   },
   "active": "e7b3751439aea23f",
   "lastOpenFiles": [
+    "IDEA_NOTE/자료/Pasted image 20231103194228.png",
+    "IDEA_NOTE/자료/image (20).png",
+    "IDEA_NOTE/자료/image (19).png",
+    "IDEA_NOTE/CRAWLING/Crawling Memo.md",
     "IDEA_NOTE/PRIVATE/팀 회의 준비.md",
     "IDEA_NOTE/CRAWLING/MANAGER.md",
     "IDEA_NOTE/CRAWLING/Related Policies.md",
-    "Pasted image 20231103194228.png",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
-    "image (20).png",
-    "image (19).png",
-    "IDEA_NOTE/CRAWLING/Crawling Memo.md",
     "IDEA_NOTE/CRAWLING/ERR_CASE/ERR_CASE_LIST.md",
     "IDEA_NOTE/Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
     "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg",
@@ -196,7 +194,6 @@
     "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
     "IDEA_NOTE/CRAWLING/표준화.md",
     "IDEA_NOTE/CRAWLING/COLLEAGUE/변재우.md",
-    "기존 crawler 시스템 분석 + 새로운 도입 시도 내용 검토 with 용호.md",
     "Excalidraw",
     "TEST_OBSIDIAN",
     "IDEA_NOTE/PROJECT/SIDE/03_DJANGO",
