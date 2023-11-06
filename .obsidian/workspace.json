@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/PRIVATE/팀 회의 준비.md",
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/PRIVATE/팀 회의 준비.md",
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/PRIVATE/팀 회의 준비.md",
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/PRIVATE/팀 회의 준비.md"
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "e7b3751439aea23f",
   "lastOpenFiles": [
+    "IDEA_NOTE/PRIVATE/팀 회의 준비.md",
     "IDEA_NOTE/CRAWLING/MANAGER.md",
     "IDEA_NOTE/CRAWLING/Related Policies.md",
     "Pasted image 20231103194228.png",
