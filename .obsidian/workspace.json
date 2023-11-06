@@ -11,9 +11,11 @@
             "id": "e7b3751439aea23f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md"
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md"
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md"
               }
             }
           },
@@ -159,6 +161,7 @@
   },
   "active": "e7b3751439aea23f",
   "lastOpenFiles": [
+    "IDEA_NOTE/Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
     "IDEA_NOTE/자료/Pasted image 20231103194228.png",
     "IDEA_NOTE/자료/image (20).png",
     "IDEA_NOTE/자료/image (19).png",
@@ -168,7 +171,6 @@
     "IDEA_NOTE/CRAWLING/Related Policies.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
     "IDEA_NOTE/CRAWLING/ERR_CASE/ERR_CASE_LIST.md",
-    "IDEA_NOTE/Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
     "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg",
     "IDEA_NOTE/자료/Pasted image 20231101200239.png",
     "IDEA_NOTE/CRAWLING/COLLEAGUE/위강은.md",
