@@ -28,6 +28,7 @@
 - GIT 정책
 	- fincette-crawler
 
+- surfsharkVPN 당분간 사용정지
 ### 03. REVIEW	
 
 3-1 에러케이스  	
