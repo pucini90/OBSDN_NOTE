@@ -11,3 +11,5 @@
 3. surfsharkVPN 사용
   
 4. https://welgram.slack.com/archives/C060T8PMHAM/p1699335957090209
+
+5. MZI
