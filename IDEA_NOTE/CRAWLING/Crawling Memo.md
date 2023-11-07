@@ -8,4 +8,4 @@
 		1. 19세 이상으로 설정된 케이스 : SFI_MDC_D005 
 		2. 5세이상으로 설정된 케이스는 다수
 
-surfsharkVPN 사용
+3. surfsharkVPN 사용
