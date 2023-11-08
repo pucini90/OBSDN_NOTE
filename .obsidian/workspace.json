@@ -11,9 +11,11 @@
             "id": "f3361e5f3ea6a525",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/자료/Pasted image 20231102115436.png"
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/자료/Pasted image 20231102115436.png",
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/자료/Pasted image 20231102115436.png",
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/자료/Pasted image 20231102115436.png"
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md"
               }
             }
           },
@@ -159,8 +161,8 @@
   },
   "active": "f3361e5f3ea6a525",
   "lastOpenFiles": [
-    "IDEA_NOTE/자료/Pasted image 20230926151901.png",
     "IDEA_NOTE/자료/Pasted image 20231102115436.png",
+    "IDEA_NOTE/자료/Pasted image 20230926151901.png",
     "IDEA_NOTE/자료/Drawing 2023-11-08 19.56.37.excalidraw.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_08.md",
