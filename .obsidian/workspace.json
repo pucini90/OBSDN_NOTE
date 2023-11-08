@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md"
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md"
               }
             }
           },
@@ -161,9 +161,9 @@
   },
   "active": "e7b3751439aea23f",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/Crawling Memo.md",
     "IDEA_NOTE/CRAWLING/Related Policies.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
-    "IDEA_NOTE/CRAWLING/Crawling Memo.md",
     "IDEA_NOTE/Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
     "IDEA_NOTE/자료/Pasted image 20231103194228.png",
     "IDEA_NOTE/자료/image (20).png",
