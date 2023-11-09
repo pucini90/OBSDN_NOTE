@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md"
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "f3361e5f3ea6a525",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/Crawling Memo.md",
     "Pasted image 20231109090920.png",
     "IDEA_NOTE/CRAWLING/표준화.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md",
@@ -172,7 +173,6 @@
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_02.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_01.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_06.md",
-    "IDEA_NOTE/CRAWLING/Crawling Memo.md",
     "IDEA_NOTE/무제 파일.md",
     "IDEA_NOTE/무제 파일 2.md",
     "IDEA_NOTE/무제 파일 1.md",
@@ -196,7 +196,6 @@
     "IDEA_NOTE/STUDY/002_MARKDOWN.md",
     "IDEA_NOTE/STUDY/003. GIT.md",
     "IDEA_NOTE/자료/Pasted image 20231101212341.png",
-    "IDEA_NOTE/자료/Pasted image 20231101200931.png",
     "Excalidraw",
     "TEST_OBSIDIAN",
     "IDEA_NOTE/PROJECT/SIDE/03_DJANGO",
