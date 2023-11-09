@@ -25,7 +25,7 @@
 	
 	[[이기세]] (부재 / 예비군)
 
-
+---
 ### 02. REMIND
 
 - 코드 관리 
@@ -37,6 +37,8 @@
 	- fincette-crawler
 
 - surfsharkVPN 당분간 사용정지
+
+- ---
 ### 03. REVIEW	
 
 3-1 에러케이스  	
@@ -57,6 +59,7 @@
 - 확인 후에 다시
 
 
+---
 ### 04. CODE_REVIEW
 
 4-1
@@ -70,6 +73,7 @@
 	![[Pasted image 20231101212341.png]]
 
 
+---
 ### 05. GIT
 
 - 앞으로 강은님이 코드 컨벤션 관리할 것
@@ -78,6 +82,8 @@
 
 MAIN / PROD / FEAT / EMERGENCY 
 
+
+---
 ### 06. 응?!
 	
 	![[Pasted image 20231102115436.png]]
@@ -85,6 +91,8 @@ MAIN / PROD / FEAT / EMERGENCY
 	일단 로그아웃 처리함 
 	다른 분들도 한번 확인해보세요
 
+
+---
 ### 07. WEEKLY REPORT
 	
 	기본적으로 앞으로 주간단위 작업양 기록은 MONDAY에 함 
