@@ -19,7 +19,7 @@
 	- 새로운 페이지에 넣어놓고 다시 전환시키면 형태 그대로 풀려서 이미지 포멧등을 지정할 수 있다!!!
 
 5. CODE_REVIEW 
-	- lint 도입
+	- xlint 도입
 
 6. CODE_CONVENTION (fincette_crawler)
 	 1. NAMING RULE
