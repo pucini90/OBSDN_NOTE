@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md"
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md"
               }
             }
           },
@@ -161,10 +161,10 @@
   },
   "active": "f3361e5f3ea6a525",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/Related Policies.md",
+    "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
     "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_02.md",
     "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
-    "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
-    "IDEA_NOTE/CRAWLING/Related Policies.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_08.md",
