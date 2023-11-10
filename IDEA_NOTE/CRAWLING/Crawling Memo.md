@@ -36,3 +36,6 @@ no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id
 
 TYL_BAB_F003, 
 ![[Pasted image 20231110092210.png]]
+
+
+대면 - 
