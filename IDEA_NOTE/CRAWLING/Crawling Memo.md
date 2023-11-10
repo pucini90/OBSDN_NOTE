@@ -32,3 +32,5 @@
 
 no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='div_money_psby1_9WT721AF6']/div/p/span[1]/b"}
   (Session info: chrome=114.0.5735.110)
+
+![[Pasted image 20231110091002.png]]
