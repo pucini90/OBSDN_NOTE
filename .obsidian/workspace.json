@@ -11,11 +11,9 @@
             "id": "f3361e5f3ea6a525",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20231109090920.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
+                "file": "Pasted image 20231109090920.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
+                "file": "Pasted image 20231109090920.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md"
+                "file": "Pasted image 20231109090920.png"
               }
             }
           },
@@ -159,13 +157,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3361e5f3ea6a525",
+  "active": "73c958199096b504",
   "lastOpenFiles": [
     "IDEA_NOTE/CRAWLING/Crawling Memo.md",
+    "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
     "Pasted image 20231110092210.png",
     "Pasted image 20231110091002.png",
     "IDEA_NOTE/CRAWLING/Related Policies.md",
-    "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
     "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_02.md",
     "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md",
