@@ -24,6 +24,8 @@
 	HWF_DSS_F129
 	HWF_DSS_F130
 	HWF_DSS_F131
+	- 고정금액인 양 설정 됨 
+	- 유동특약과는 살짜 다름
 	
 	TYL_BAB_F003
 	TYL_BAB_F004
