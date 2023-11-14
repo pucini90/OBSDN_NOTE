@@ -63,13 +63,17 @@
 ---
 
 유동특약 잘못 조사된 ㅋ이스 (재확인)
-|   |
-|---|
-|HWF_DSS_F124|
-|HWF_DSS_F125|
-|HWF_DSS_F126|
-|HWF_DSS_F127|
-|HWF_DSS_F128|
-|HWF_DSS_F129|
-|HWF_DSS_F130|
-|HWF_DSS_F131|
+|              |                          |
+| ------------ | ------------------------ |
+| HWF_DSS_F124 |                          |
+| HWF_DSS_F125 |                          |
+| HWF_DSS_F126 |                          |
+| HWF_DSS_F127 |                          |
+| HWF_DSS_F128 |                          |
+| HWF_DSS_F129 |                          |
+| HWF_DSS_F130 |                          |
+| HWF_DSS_F131 | HWF_DRV_F006 - 임의 처리 |
+|              |                          |
+|              |                          |
+
+
