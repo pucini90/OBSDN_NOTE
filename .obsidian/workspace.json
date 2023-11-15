@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md",
+                "file": "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f71e2494150b7be8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDEA_NOTE/CRAWLING/IDEA/선택특약의 보험기간, 납입기간 표기기능 추가.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md",
+                "file": "IDEA_NOTE/CRAWLING/IDEA/선택특약의 보험기간, 납입기간 표기기능 추가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md",
+                "file": "IDEA_NOTE/CRAWLING/IDEA/선택특약의 보험기간, 납입기간 표기기능 추가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md"
+                "file": "IDEA_NOTE/CRAWLING/IDEA/선택특약의 보험기간, 납입기간 표기기능 추가.md"
               }
             }
           },
@@ -159,8 +172,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3361e5f3ea6a525",
+  "active": "f71e2494150b7be8",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/IDEA/2023 4분기 크롤링 시스템 개선.md",
+    "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
+    "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_02.md",
+    "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
+    "IDEA_NOTE/CRAWLING/IDEA/선택특약의 보험기간, 납입기간 표기기능 추가.md",
+    "IDEA_NOTE/CRAWLING/Related Policies.md",
+    "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md",
     "IDEA_NOTE/CRAWLING/Crawling Memo.md",
     "IDEA_NOTE/자료/Pasted image 20231013142101 1.png",
     "IDEA_NOTE/자료/Pasted image 20231013142101.png",
@@ -173,13 +193,8 @@
     "IDEA_NOTE/자료/Pasted image 20231101200931.png",
     "IDEA_NOTE/자료/Pasted image 20231101212341.png",
     "IDEA_NOTE/자료/Drawing 2023-11-08 19.56.37.excalidraw.md",
-    "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
-    "IDEA_NOTE/CRAWLING/Related Policies.md",
     "IDEA_NOTE/CRAWLING/표준화.md",
-    "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
-    "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_02.md",
-    "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_08.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_05.md",
@@ -195,7 +210,6 @@
     "IDEA_NOTE/PRIVATE/팀 회의 준비.md",
     "IDEA_NOTE/CRAWLING/MANAGER.md",
     "IDEA_NOTE/CRAWLING/ERR_CASE/ERR_CASE_LIST.md",
-    "IDEA_NOTE/CRAWLING/COLLEAGUE/위강은.md",
     "Excalidraw",
     "TEST_OBSIDIAN",
     "IDEA_NOTE/PROJECT/SIDE/03_DJANGO",
