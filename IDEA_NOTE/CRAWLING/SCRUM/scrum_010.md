@@ -16,7 +16,7 @@
 	[[이기세]]
 
 동혁님 요청사항
-	수요일, 목요일 오후에 자리에 없어서 상품 상태값이 꼬이는 케이스 안생기게 주의 부탁드립니다 
+	이번주 수요일, 목요일 오후에 자리에 없어서 상품 상태값이 꼬이는 케이스 안생기게 주의 부탁드립니다 
 
 ---
 ### 02. REMIND
@@ -24,19 +24,29 @@
 2-1 그래프 개형
 	![[image (1).png]]
 
-
-2-2 
-	유동특약 조사에 대한 경과 
-	- 1차 조사 결과 : 기존 8개 -> 13개 확인 (HWF 케이스는 조금 예외적임 / 개발자는 유동특약과 비슷하게 느낌)
+2-2. 유동특약 조사에 대한 경과  
+	- 1차 조사 결과 : 기존 8개 -> 13개 확인 
+		- HWF 케이스는 조금 예외적임 / 개발자는 유동특약과 같게 인식
 	- 특정 카테고리에 몰리는 현상은 없었음
 	- [유동특약 조사(2023.11.13)](https://docs.google.com/spreadsheets/d/13QCZJqEzviTmxUvxlM3kWzIuEwpHYVcYhAf2xvPwJvs/edit#gid=1975322336)
+
+2-3. 
+	
 
 ---
 ### 03. CODE_REVIEW
 
-3-1 nuzal-web 
-- 모니터링 page 
+3-1. 기존 참고할 만한 코드나 프로젝트
+	1. nuzal-web / monitoringBoardBrief.jsp, monitoringBoardBrief.js, DashboardCtrl	
+		![[Pasted image 20231115102237.png]]
+		- 전역 변수 : 'g'Product
+		- jsp와 js를 형식이나 용도에 맞게 완벽하게 구분하여 사용 (깔끔)
+		![[Pasted image 20231115102424.png]]
+		![[Pasted image 20231115102809.png]]
+		- 함수안에서 다시 함수호출하는 방식
+		- 내용 활용하기 위한 함수 네이밍
 
+ 1. ~~nuzal-api~~ / 
 
 ---
 
@@ -61,10 +71,6 @@
 		- 운영계 pull받고 다시 운영계에서 해당 개발 내용만 merge
 		- PR요청 후, 담당자 검토이후 반영 (PR 담당자 : 팀장님, 재유 팀장님, 동혁님)
 		- 완료된 이슈는 close
-
-3. 기존 참고할 만한 코드나 프로젝트
-	1. nuzal-web / monitoringBoardBrief.jsp, monitoringBoardBrief.js, DashboardCtrl
-	2. ~~nuzal-api~~ / 
 
 
 ---
