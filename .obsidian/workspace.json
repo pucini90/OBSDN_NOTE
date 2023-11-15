@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/표준화.md",
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/표준화.md",
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/표준화.md",
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/표준화.md"
+                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md"
               }
             }
           },
@@ -172,8 +172,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f71e2494150b7be8",
+  "active": "73c958199096b504",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/표준화.md",
     "IDEA_NOTE/CRAWLING/Crawling Memo.md",
     "IDEA_NOTE/CRAWLING/MANAGER.md",
     "IDEA_NOTE/CRAWLING/IDEA/선택특약의 보험기간, 납입기간 표기기능 추가.md",
@@ -195,7 +196,6 @@
     "IDEA_NOTE/자료/Pasted image 20231101212341.png",
     "IDEA_NOTE/자료/Drawing 2023-11-08 19.56.37.excalidraw.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
-    "IDEA_NOTE/CRAWLING/표준화.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_08.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_07.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_05.md",
