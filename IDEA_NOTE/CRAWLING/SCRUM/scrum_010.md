@@ -46,7 +46,7 @@
 ### 03. CODE_REVIEW
 
 3-1. 기존 참고할 만한 코드나 프로젝트
-	1. nuzal-web / monitoringBoardBrief.jsp, monitoringBoardBrief.js, DashboardCtrl	
+	1. nuzal-web / monitoringBoardBrief.jsp, monitoringBoardBrief.js, DashboardCtrl
 		![[Pasted image 20231115102237.png]]
 		- 전역 변수 : 'g'Product
 		- jsp와 js를 형식이나 용도에 맞게 완벽하게 구분하여 사용 (깔끔)
@@ -74,11 +74,10 @@
 	3. 해약정보 삭제기능 - 최우진, 변재우, 위강은
 	4. 연금정보 삭제기능 - 최우진, 변재우, 위강은
 	5. (5까지 다되면 시작) automation 과 대조기능 - 최우진, 변재우, 위강은
-	
-	6. 예외처리 강화 - 노우정, 이기세
-	
-	7. code_convention - 위강은, 최우진
-	8. git정책 - 위강은, 최우진
+	6. code_convention - 위강은, 최우진
+	7. git정책 - 위강은, 최우진
+
+	8. 예외처리 강화 - 노우정, 이기세	
 	
 	9. plan_master 테이블 reg_time, mod_time, session_id 추가(접근자 tracking)
 	10. 설계마스터 화면내 상품상태에 따른 필터
