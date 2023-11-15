@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md",
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Crawling Memo.md"
+                "file": "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "f3361e5f3ea6a525",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/Crawling Memo.md",
     "IDEA_NOTE/자료/Pasted image 20231013142101 1.png",
     "IDEA_NOTE/자료/Pasted image 20231013142101.png",
     "IDEA_NOTE/자료/Pasted image 20231026134938.png",
@@ -171,12 +172,10 @@
     "IDEA_NOTE/자료/Pasted image 20231101200352.png",
     "IDEA_NOTE/자료/Pasted image 20231101200931.png",
     "IDEA_NOTE/자료/Pasted image 20231101212341.png",
-    "IDEA_NOTE/자료/Pasted image 20231109090920.png",
     "IDEA_NOTE/자료/Drawing 2023-11-08 19.56.37.excalidraw.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
     "IDEA_NOTE/CRAWLING/Related Policies.md",
-    "IDEA_NOTE/CRAWLING/Crawling Memo.md",
     "IDEA_NOTE/CRAWLING/표준화.md",
     "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
     "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_02.md",
