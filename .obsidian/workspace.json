@@ -11,11 +11,9 @@
             "id": "f3361e5f3ea6a525",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
-                "mode": "source",
-                "source": false
+                "file": "IDEA_NOTE/자료/Pasted image 20230926151531.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
+                "file": "IDEA_NOTE/자료/Pasted image 20230926151531.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
+                "file": "IDEA_NOTE/자료/Pasted image 20230926151531.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/Related Policies.md"
+                "file": "IDEA_NOTE/자료/Pasted image 20230926151531.png"
               }
             }
           },
@@ -161,20 +159,22 @@
   },
   "active": "f3361e5f3ea6a525",
   "lastOpenFiles": [
+    "IDEA_NOTE/자료/Pasted Image 20230925002753_813.jpg",
+    "IDEA_NOTE/자료/image (20).png",
+    "IDEA_NOTE/자료/image (19).png",
+    "IDEA_NOTE/자료/image (1).png",
+    "IDEA_NOTE/자료/Pasted image 20231115103017.png",
+    "IDEA_NOTE/자료/Pasted image 20231115102809.png",
+    "IDEA_NOTE/자료/Pasted image 20231115102424.png",
+    "IDEA_NOTE/자료/Pasted image 20231115102237.png",
+    "IDEA_NOTE/자료/Pasted image 20231114172437.png",
+    "IDEA_NOTE/자료/Pasted image 20231110091002.png",
+    "IDEA_NOTE/자료/Pasted image 20231109090920.png",
+    "IDEA_NOTE/CRAWLING/Related Policies.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md",
     "IDEA_NOTE/CRAWLING/Crawling Memo.md",
-    "image (1).png",
     "IDEA_NOTE/CRAWLING/표준화.md",
-    "Pasted image 20231115103017.png",
-    "Pasted image 20231115102809.png",
-    "Pasted image 20231115102424.png",
-    "Pasted image 20231115102237.png",
-    "Pasted image 20231114172437.png",
-    "Pasted image 20231109090920.png",
     "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
-    "Pasted image 20231110092210.png",
-    "Pasted image 20231110091002.png",
-    "IDEA_NOTE/CRAWLING/Related Policies.md",
     "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_02.md",
     "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_09.md",
@@ -189,7 +189,6 @@
     "IDEA_NOTE/무제 파일.md",
     "IDEA_NOTE/무제 파일 2.md",
     "IDEA_NOTE/무제 파일 1.md",
-    "IDEA_NOTE/자료/Pasted image 20231102115436.png",
     "IDEA_NOTE/자료/Drawing 2023-11-08 19.56.37.excalidraw.md",
     "IDEA_NOTE/Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
     "IDEA_NOTE/PRIVATE/팀 회의 준비.md",
