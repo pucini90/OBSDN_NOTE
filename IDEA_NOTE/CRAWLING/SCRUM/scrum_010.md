@@ -46,6 +46,7 @@
 ### 03. CODE_REVIEW
 
 3-1. 기존 참고할 만한 코드나 프로젝트
+	사례 : 모니터링(간단)페이지
 	1. nuzal-web / monitoringBoardBrief.jsp, monitoringBoardBrief.js, DashboardCtrl
 		![[Pasted image 20231115102237.png]]
 		- 전역 변수 : 'g'Product
