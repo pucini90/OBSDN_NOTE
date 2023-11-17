@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
+                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
+                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
+                "file": "IDEA_NOTE/CRAWLING/Related Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md"
+                "file": "IDEA_NOTE/CRAWLING/Related Policies.md"
               }
             }
           },
@@ -173,14 +173,14 @@
   },
   "active": "f3361e5f3ea6a525",
   "lastOpenFiles": [
+    "IDEA_NOTE/CRAWLING/MANAGER.md",
+    "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
     "IDEA_NOTE/CRAWLING/SCRUM/scrum_010.md",
     "IDEA_NOTE/CRAWLING/Crawling Memo.md",
     "IDEA_NOTE/CRAWLING/Related Policies.md",
     "아카이빙된 플랜의 사용값 조회기능 (이전 가설내용 카피).md",
     "IDEA_NOTE/CRAWLING/IDEA/2023 4분기 크롤링 시스템 개선.md",
-    "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_01.md",
     "IDEA_NOTE/CRAWLING/표준화.md",
-    "IDEA_NOTE/CRAWLING/MANAGER.md",
     "IDEA_NOTE/CRAWLING/IDEA/선택특약의 보험기간, 납입기간 표기기능 추가.md",
     "IDEA_NOTE/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
     "IDEA_NOTE/CRAWLING/IDEA/크롤링 방식 변경_02.md",
