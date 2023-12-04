@@ -90,8 +90,10 @@
 1. 아쉬운 케이스
 	![[Pasted image 20231204111214.png]]
 
-2. DEPRECATED : : EventFiringWebDriver
+2. 사용지양 케이스 DEPRECATED : : EventFiringWebDriver
 	![[Pasted image 20231204111557.png]]
 	![[Pasted image 20231204111502.png]]
 	deprecated : 더이상 추가 지원하지 않음 / 기존의 코드 사용가능하나 언제 없어질지 모름
 	- 개인적으로 사용하는 것에 큰 위화감 없지만, SE는 버전관리 한지가 너무 오래되어서 해당 패키지 사용중인 기능은 수정 부탁드립니다
+	EventFiringWebDriver 사용했던 예제 : KYO_DTL_F001
+	![[Pasted image 20231204190337.png]]
