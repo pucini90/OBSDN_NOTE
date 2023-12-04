@@ -77,4 +77,13 @@
 
 3. 누가 제발 먼데이좀 알려줘.. ㅜㅜ
 
-4. 
+
+---
+### 06. CODE_CONVENTION
+
+1. 아쉬운 케이스
+	![[Pasted image 20231204111214.png]]
+
+2. DEPRECATED : : EventFiringWebDriver
+	![[Pasted image 20231204111557.png]]
+	![[Pasted image 20231204111502.png]]

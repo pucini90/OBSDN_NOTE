@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRAWLING/Crawling Memo.md",
+                "file": "CRAWLING/Related Policies.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRAWLING/Crawling Memo.md",
+                "file": "CRAWLING/Related Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRAWLING/Crawling Memo.md",
+                "file": "CRAWLING/Related Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRAWLING/Crawling Memo.md"
+                "file": "CRAWLING/Related Policies.md"
               }
             }
           },
@@ -170,6 +170,12 @@
   "active": "a83f02d385a3564f",
   "lastOpenFiles": [
     "CRAWLING/SCRUM/scrum_013.md",
+    "Pasted image 20231204111557.png",
+    "Pasted image 20231204111502.png",
+    "Pasted image 20231204111214.png",
+    "Pasted image 20231204111202.png",
+    "CRAWLING/Related Policies.md",
+    "CRAWLING/Crawling Memo.md",
     "CRAWLING/SCRUM/scrum_011.md",
     "무제 파일 2.md",
     "무제 파일 1.md",
@@ -182,19 +188,14 @@
     "자료/Pasted image 20231102115436.png",
     "자료/Pasted image 20231101212341.png",
     "자료/Pasted image 20231101200931.png",
-    "자료/Pasted image 20231101200352.png",
-    "자료/Pasted image 20231101200318.png",
-    "자료/Pasted image 20231101200239.png",
     "STUDY/006. XPATH.md",
     "STUDY/005. JSON.md",
     "STUDY/004. PROGRAMMERS.md",
     "STUDY/003. GIT.md",
-    "CRAWLING/Crawling Memo.md",
     "CRAWLING/SCRUM/scrum_09.md",
     "CRAWLING/ERR_CASE/ERR_CASE_LIST.md",
     "CRAWLING/표준화.md",
     "CRAWLING/Untitled.md",
-    "CRAWLING/Related Policies.md",
     "CRAWLING/IDEA/크롤링 방식 변경_01.md",
     "CRAWLING/IDEA/크롤링 방식 변경_02.md",
     "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
@@ -203,8 +204,6 @@
     "CRAWLING/COLLEAGUE/위강은.md",
     "CRAWLING/COLLEAGUE/서용호.md",
     "CRAWLING/COLLEAGUE/변재우.md",
-    "CRAWLING/COLLEAGUE/노우정.md",
-    "자료/Pasted image 20231013142101.png",
     "PROJECT/SIDE/01_P_CRAWLER/자료",
     "PROJECT/SIDE/01_P_CRAWLER",
     "PROJECT/SIDE",
