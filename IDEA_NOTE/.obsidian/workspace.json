@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRAWLING/SCRUM/scrum_013.md",
+                "file": "CRAWLING/Crawling Memo.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRAWLING/SCRUM/scrum_013.md",
+                "file": "CRAWLING/Crawling Memo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRAWLING/SCRUM/scrum_013.md",
+                "file": "CRAWLING/Crawling Memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRAWLING/SCRUM/scrum_013.md"
+                "file": "CRAWLING/Crawling Memo.md"
               }
             }
           },
@@ -170,8 +169,8 @@
   },
   "active": "a83f02d385a3564f",
   "lastOpenFiles": [
-    "CRAWLING/SCRUM/scrum_011.md",
     "CRAWLING/SCRUM/scrum_013.md",
+    "CRAWLING/SCRUM/scrum_011.md",
     "무제 파일 2.md",
     "무제 파일 1.md",
     "무제 파일.md",
