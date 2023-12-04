@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WELGRAM/CRAWLING/Crawling Memo.md",
+                "file": "WELGRAM/CRAWLING/SCRUM/scrum_013.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WELGRAM/CRAWLING/Crawling Memo.md",
+                "file": "WELGRAM/CRAWLING/SCRUM/scrum_013.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WELGRAM/CRAWLING/Crawling Memo.md",
+                "file": "WELGRAM/CRAWLING/SCRUM/scrum_013.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WELGRAM/CRAWLING/Crawling Memo.md"
+                "file": "WELGRAM/CRAWLING/SCRUM/scrum_013.md"
               }
             }
           },
@@ -169,11 +169,11 @@
   },
   "active": "a83f02d385a3564f",
   "lastOpenFiles": [
+    "WELGRAM/CRAWLING/Crawling Memo.md",
     "WELGRAM/CRAWLING/SCRUM/scrum_013.md",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
-    "WELGRAM/CRAWLING/Crawling Memo.md",
     "WELGRAM",
     "WELGRAM/CRAWLING/Related Policies.md",
     "Pasted image 20231204111557.png",
