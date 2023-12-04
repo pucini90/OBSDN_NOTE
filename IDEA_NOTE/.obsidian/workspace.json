@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRAWLING/Related Policies.md",
+                "file": "CRAWLING/Crawling Memo.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRAWLING/Related Policies.md",
+                "file": "CRAWLING/Crawling Memo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRAWLING/Related Policies.md",
+                "file": "CRAWLING/Crawling Memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRAWLING/Related Policies.md"
+                "file": "CRAWLING/Crawling Memo.md"
               }
             }
           },
@@ -169,12 +169,12 @@
   },
   "active": "a83f02d385a3564f",
   "lastOpenFiles": [
+    "CRAWLING/Related Policies.md",
     "CRAWLING/SCRUM/scrum_013.md",
     "Pasted image 20231204111557.png",
     "Pasted image 20231204111502.png",
     "Pasted image 20231204111214.png",
     "Pasted image 20231204111202.png",
-    "CRAWLING/Related Policies.md",
     "CRAWLING/Crawling Memo.md",
     "CRAWLING/SCRUM/scrum_011.md",
     "무제 파일 2.md",
