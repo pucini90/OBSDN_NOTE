@@ -100,3 +100,7 @@
 	![[Pasted image 20231204190337.png]]
 
 	![[Pasted image 20231205104250.png]]
+
+
+	1. MAP - >
+	2. Locator - > 
