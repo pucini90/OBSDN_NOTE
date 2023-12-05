@@ -97,3 +97,5 @@
 	- 개인적으로 사용하는 것에 큰 위화감 없지만, SE는 버전관리 한지가 너무 오래되어서 해당 패키지 사용중인 기능은 수정 부탁드립니다
 	EventFiringWebDriver 사용했던 예제 : KYO_DTL_F001
 	![[Pasted image 20231204190337.png]]
+
+	![[Pasted image 20231205104250.png]]
