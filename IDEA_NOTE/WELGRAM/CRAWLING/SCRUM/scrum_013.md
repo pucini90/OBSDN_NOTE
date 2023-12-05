@@ -90,6 +90,7 @@
 1. 아쉬운 케이스
 	![[Pasted image 20231204111214.png]]
 
+
 2. 사용지양 케이스 DEPRECATED : : EventFiringWebDriver
 	![[Pasted image 20231204111557.png]]
 	![[Pasted image 20231204111502.png]]
