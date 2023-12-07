@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WELGRAM/CRAWLING/SCRUM/scrum_013.md",
+                "file": "WELGRAM/CRAWLING/Crawling Memo.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WELGRAM/CRAWLING/SCRUM/scrum_013.md",
+                "file": "WELGRAM/CRAWLING/Crawling Memo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WELGRAM/CRAWLING/SCRUM/scrum_013.md",
+                "file": "WELGRAM/CRAWLING/Crawling Memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WELGRAM/CRAWLING/SCRUM/scrum_013.md"
+                "file": "WELGRAM/CRAWLING/Crawling Memo.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "17ce5390d0b28af8",
   "lastOpenFiles": [
+    "WELGRAM/CRAWLING/SCRUM/scrum_013.md",
     "해약정보 삭제기능.md",
     "WELGRAM/CRAWLING/IDEA/2023 4분기 크롤링 시스템 개선.md",
     "WELGRAM/CRAWLING/IDEA/선택특약의 보험기간, 납입기간 표기기능 추가.md",
@@ -178,7 +179,6 @@
     "무제 파일 1.md",
     "무제 파일.md",
     "WELGRAM/CRAWLING/Crawling Memo.md",
-    "WELGRAM/CRAWLING/SCRUM/scrum_013.md",
     "Pasted image 20231205104250.png",
     "Pasted image 20231204190337.png",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
