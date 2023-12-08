@@ -35,3 +35,4 @@
 
 3. delte 쿼리
 
+productCodeInput2
