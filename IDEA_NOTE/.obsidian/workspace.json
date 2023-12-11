@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WELGRAM/CRAWLING/Crawling Memo.md",
+                "file": "WELGRAM/CRAWLING/SCRUM/SCRUM_014.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WELGRAM/CRAWLING/Crawling Memo.md",
+                "file": "WELGRAM/CRAWLING/SCRUM/SCRUM_014.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WELGRAM/CRAWLING/Crawling Memo.md",
+                "file": "WELGRAM/CRAWLING/SCRUM/SCRUM_014.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WELGRAM/CRAWLING/Crawling Memo.md"
+                "file": "WELGRAM/CRAWLING/SCRUM/SCRUM_014.md"
               }
             }
           },
@@ -169,14 +169,17 @@
   },
   "active": "17ce5390d0b28af8",
   "lastOpenFiles": [
-    "WELGRAM/CRAWLING/Related Policies.md",
-    "WELGRAM/CRAWLING/Crawling Memo.md",
     "WELGRAM/CRAWLING/SCRUM/scrum_013.md",
+    "WELGRAM/CRAWLING/SCRUM/SCRUM_014.md",
+    "WELGRAM/CRAWLING/IDEA/크롤링 방식 변경_02.md",
+    "WELGRAM/CRAWLING/IDEA/크롤링 방식 변경_01.md",
+    "WELGRAM/CRAWLING/IDEA/선택특약의 보험기간, 납입기간 표기기능 추가.md",
+    "WELGRAM/CRAWLING/SCRUM/scrum_011.md",
+    "WELGRAM/CRAWLING/Crawling Memo.md",
+    "WELGRAM/CRAWLING/Related Policies.md",
     "해약정보 삭제기능.md",
     "WELGRAM/CRAWLING/IDEA/2023 4분기 크롤링 시스템 개선.md",
-    "WELGRAM/CRAWLING/IDEA/선택특약의 보험기간, 납입기간 표기기능 추가.md",
     "WELGRAM/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
-    "WELGRAM/CRAWLING/IDEA/크롤링 방식 변경_02.md",
     "무제 파일 2.md",
     "무제 파일 1.md",
     "무제 파일.md",
@@ -190,7 +193,6 @@
     "Pasted image 20231204111502.png",
     "Pasted image 20231204111214.png",
     "Pasted image 20231204111202.png",
-    "WELGRAM/CRAWLING/SCRUM/scrum_011.md",
     "WELGRAM/CRAWLING/SCRUM/scrum_08.md",
     "자료/Drawing 2023-11-08 19.56.37.excalidraw.md",
     "자료/image (20).png",
@@ -204,8 +206,6 @@
     "WELGRAM/CRAWLING/ERR_CASE/ERR_CASE_LIST.md",
     "WELGRAM/CRAWLING/표준화.md",
     "CRAWLING/Untitled.md",
-    "WELGRAM/CRAWLING/IDEA/크롤링 방식 변경_01.md",
-    "CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어.md",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/자료",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER",
     "WELGRAM/PROJECT/SIDE",
