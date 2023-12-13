@@ -118,7 +118,7 @@ https://inpa.tistory.com/entry/OOP-%F0%9F%92%A0-%EC%95%84%EC%A3%BC-%EC%89%BD%EA%
 	- 새로운 기술/트렌드에 쏠리는 초급 개발자
 	- 새로운 기술/ 트렌드에 죽어있는 중급이상 개발자
 	
-	- Vue React, Angular, Svelte - 잘쓴다는 이해전에 왜쓰는지 이해해야...
+	- Vue React, Angular, Svelte - 잘 쓴다는 이해전에 왜 쓰는지 이해해야...
 	- "나보다 새로온 초급들이 더 잘안다 더 잘한다"
 	- 어차피 for문, if문 있으면 다할수 있는 기능 아니냐 / 왜 새로운 걸 배우나
 	- 그래봤자 binary 수준의 기능 업그레이드는 아니지 않냐 / 그럼 왜 하냐
@@ -126,6 +126,7 @@ https://inpa.tistory.com/entry/OOP-%F0%9F%92%A0-%EC%95%84%EC%A3%BC-%EC%89%BD%EA%
 	- 건축 이야기 (생략)
 	
 	- 그래서 지금 트렌드가 뭔데? - " 경제성 / 효율성 "
+	
 	- / 시간당 누가 더 많은 양의 작업물을 만드냐 - React, Vue
 	- / 누가 더 완성도가 빠르게 진행되냐 - SPRING BOOT
 	- / 불필요한 프로세스등을 스킵할 수 있냐 - ex. tyhmleaf (CORS)
