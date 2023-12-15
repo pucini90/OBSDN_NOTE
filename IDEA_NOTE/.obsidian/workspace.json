@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WELGRAM/PROJECT/TF/Untitled.md",
+                "file": "WELGRAM/PROJECT/TF/아이디어제안_.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WELGRAM/PROJECT/TF/Untitled.md",
+                "file": "WELGRAM/PROJECT/TF/아이디어제안_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WELGRAM/PROJECT/TF/Untitled.md",
+                "file": "WELGRAM/PROJECT/TF/아이디어제안_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WELGRAM/PROJECT/TF/Untitled.md"
+                "file": "WELGRAM/PROJECT/TF/아이디어제안_.md"
               }
             }
           },
@@ -169,11 +169,14 @@
   },
   "active": "17ce5390d0b28af8",
   "lastOpenFiles": [
+    "WELGRAM/CRAWLING/SCRUM/SCRUM_015.md",
+    "WELGRAM/CRAWLING/SCRUM/SCRUM_014.md",
+    "WELGRAM/CRAWLING/SCRUM/scrum_01.md",
+    "WELGRAM/CRAWLING/SCRUM/scrum_013.md",
+    "WELGRAM/PROJECT/TF/아이디어제안_.md",
     "Pasted image 20231215115549.png",
     "Pasted image 20231215115201.png",
     "Pasted image 20231215115016.png",
-    "WELGRAM/CRAWLING/SCRUM/SCRUM_014.md",
-    "WELGRAM/PROJECT/TF/Untitled.md",
     "WELGRAM/PROJECT/TF",
     "WELGRAM/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
     "WELGRAM/CRAWLING/IDEA/크롤링 방식 변경_02.md",
@@ -189,14 +192,12 @@
     "자료/Pasted image 20231204190337.png",
     "자료/Pasted image 20231204111557.png",
     "자료/Pasted image 20231204111502.png",
-    "자료/Pasted image 20231204111202.png",
     "무제 파일 1.md",
     "무제 파일 2.md",
     "무제 파일.md",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
     "WELGRAM/CRAWLING/ERR_CASE/ERR_CASE_LIST.md",
-    "WELGRAM/CRAWLING/SCRUM/scrum_013.md",
     "ABL_CCR_D002.java",
     "WELGRAM/CRAWLING/SCRUM/scrum_011.md",
     "WELGRAM/CRAWLING/Crawling Memo.md",
@@ -207,7 +208,6 @@
     "STUDY/005. JSON.md",
     "STUDY/004. PROGRAMMERS.md",
     "STUDY/003. GIT.md",
-    "WELGRAM/CRAWLING/SCRUM/scrum_09.md",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/자료",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER",
     "WELGRAM/PROJECT/SIDE",
