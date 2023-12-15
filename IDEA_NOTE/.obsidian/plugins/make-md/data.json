@@ -40,7 +40,9 @@
       "STUDY"
     ]
   },
-  "expandedSpaces": [],
+  "expandedSpaces": [
+    null
+  ],
   "expandFolderOnClick": true,
   "openFolders": [],
   "fileIcons": [],
