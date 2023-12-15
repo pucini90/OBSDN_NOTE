@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WELGRAM/CRAWLING/SCRUM/SCRUM_014.md",
+                "file": "WELGRAM/PROJECT/TF/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WELGRAM/CRAWLING/SCRUM/SCRUM_014.md",
+                "file": "WELGRAM/PROJECT/TF/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WELGRAM/CRAWLING/SCRUM/SCRUM_014.md",
+                "file": "WELGRAM/PROJECT/TF/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WELGRAM/CRAWLING/SCRUM/SCRUM_014.md"
+                "file": "WELGRAM/PROJECT/TF/Untitled.md"
               }
             }
           },
@@ -169,6 +169,9 @@
   },
   "active": "17ce5390d0b28af8",
   "lastOpenFiles": [
+    "WELGRAM/CRAWLING/SCRUM/SCRUM_014.md",
+    "WELGRAM/PROJECT/TF/Untitled.md",
+    "WELGRAM/PROJECT/TF",
     "WELGRAM/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
     "WELGRAM/CRAWLING/IDEA/크롤링 방식 변경_02.md",
     "WELGRAM/CRAWLING/IDEA/크롤링 방식 변경_01.md",
@@ -192,7 +195,6 @@
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
     "WELGRAM/CRAWLING/ERR_CASE/ERR_CASE_LIST.md",
-    "WELGRAM/CRAWLING/SCRUM/SCRUM_014.md",
     "WELGRAM/CRAWLING/SCRUM/scrum_013.md",
     "ABL_CCR_D002.java",
     "WELGRAM/CRAWLING/SCRUM/scrum_011.md",
@@ -214,7 +216,6 @@
     "무제 파일.canvas",
     "WELGRAM/CRAWLING/COLLEAGUE",
     "WELGRAM/CRAWLING/ERR_CASE",
-    "TODO",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas"
   ]
