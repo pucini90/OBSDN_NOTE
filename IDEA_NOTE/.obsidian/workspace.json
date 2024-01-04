@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "edb093295a073985",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +178,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "17ce5390d0b28af8",
+  "active": "edb093295a073985",
   "lastOpenFiles": [
     "WELGRAM/CRAWLING/SCRUM/SCRUM_014.md",
     "WELGRAM/CRAWLING/SCRUM/SCRUM_015.md",
