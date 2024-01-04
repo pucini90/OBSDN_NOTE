@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WELGRAM/CRAWLING/Related Policies.md",
+                "file": "WELGRAM/CRAWLING/SCRUM/scrum_07.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WELGRAM/CRAWLING/Related Policies.md",
+                "file": "WELGRAM/CRAWLING/SCRUM/scrum_07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WELGRAM/CRAWLING/Related Policies.md",
+                "file": "WELGRAM/CRAWLING/SCRUM/scrum_07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WELGRAM/CRAWLING/Related Policies.md"
+                "file": "WELGRAM/CRAWLING/SCRUM/scrum_07.md"
               }
             }
           },
@@ -182,13 +182,21 @@
   },
   "active": "edb093295a073985",
   "lastOpenFiles": [
+    "WELGRAM/CRAWLING/SCRUM/scrum_06.md",
+    "WELGRAM/CRAWLING/SCRUM/scrum_08.md",
+    "WELGRAM/CRAWLING/SCRUM/scrum_05.md",
+    "WELGRAM/CRAWLING/SCRUM/scrum_04.md",
+    "WELGRAM/CRAWLING/SCRUM/scrum_03.md",
+    "WELGRAM/CRAWLING/SCRUM/scrum_02.md",
+    "WELGRAM/CRAWLING/SCRUM/scrum_01.md",
+    "WELGRAM/CRAWLING/SCRUM/scrum_013.md",
+    "WELGRAM/CRAWLING/SCRUM/scrum_011.md",
     "WELGRAM/CRAWLING/SCRUM/SCRUM_014.md",
     "WELGRAM/CRAWLING/SCRUM/SCRUM_015.md",
+    "WELGRAM/CRAWLING/Related Policies.md",
     "WELGRAM/PROJECT/TF/아이디어 제안 01.md",
     "Pasted image 20231215115016.png",
     "WELGRAM/CRAWLING/Crawling Memo.md",
-    "WELGRAM/CRAWLING/SCRUM/scrum_01.md",
-    "WELGRAM/CRAWLING/SCRUM/scrum_013.md",
     "Pasted image 20231215115549.png",
     "Pasted image 20231215115201.png",
     "WELGRAM/PROJECT/TF",
@@ -211,15 +219,8 @@
     "무제 파일.md",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
-    "WELGRAM/CRAWLING/ERR_CASE/ERR_CASE_LIST.md",
     "ABL_CCR_D002.java",
-    "WELGRAM/CRAWLING/SCRUM/scrum_011.md",
-    "WELGRAM/CRAWLING/Related Policies.md",
     "WELGRAM",
-    "WELGRAM/CRAWLING/SCRUM/scrum_08.md",
-    "STUDY/006. XPATH.md",
-    "STUDY/005. JSON.md",
-    "STUDY/004. PROGRAMMERS.md",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/자료",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER",
     "WELGRAM/PROJECT/SIDE",
