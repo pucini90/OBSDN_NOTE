@@ -23,11 +23,9 @@
             "id": "edb093295a073985",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "WELGRAM/CRAWLING/SCRUM/scrum_07.md",
-                "mode": "source",
-                "source": false
+                "file": "WELGRAM/CRAWLING/MANAGER.md"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WELGRAM/CRAWLING/SCRUM/scrum_07.md",
+                "file": "WELGRAM/CRAWLING/MANAGER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WELGRAM/CRAWLING/SCRUM/scrum_07.md",
+                "file": "WELGRAM/CRAWLING/MANAGER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WELGRAM/CRAWLING/SCRUM/scrum_07.md"
+                "file": "WELGRAM/CRAWLING/MANAGER.md"
               }
             }
           },
@@ -182,6 +180,8 @@
   },
   "active": "edb093295a073985",
   "lastOpenFiles": [
+    "WELGRAM/CRAWLING/Crawling Memo.md",
+    "WELGRAM/CRAWLING/SCRUM/scrum_07.md",
     "WELGRAM/CRAWLING/SCRUM/scrum_06.md",
     "WELGRAM/CRAWLING/SCRUM/scrum_08.md",
     "WELGRAM/CRAWLING/SCRUM/scrum_05.md",
@@ -196,7 +196,6 @@
     "WELGRAM/CRAWLING/Related Policies.md",
     "WELGRAM/PROJECT/TF/아이디어 제안 01.md",
     "Pasted image 20231215115016.png",
-    "WELGRAM/CRAWLING/Crawling Memo.md",
     "Pasted image 20231215115549.png",
     "Pasted image 20231215115201.png",
     "WELGRAM/PROJECT/TF",
@@ -218,7 +217,6 @@
     "무제 파일 2.md",
     "무제 파일.md",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
-    "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
     "ABL_CCR_D002.java",
     "WELGRAM",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/자료",
