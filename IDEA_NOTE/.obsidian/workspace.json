@@ -23,9 +23,11 @@
             "id": "edb093295a073985",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "WELGRAM/CRAWLING/MANAGER.md"
+                "file": "WELGRAM/CRAWLING/Related Policies.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WELGRAM/CRAWLING/MANAGER.md",
+                "file": "WELGRAM/CRAWLING/Related Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WELGRAM/CRAWLING/MANAGER.md",
+                "file": "WELGRAM/CRAWLING/Related Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WELGRAM/CRAWLING/MANAGER.md"
+                "file": "WELGRAM/CRAWLING/Related Policies.md"
               }
             }
           },
@@ -181,6 +183,7 @@
   "active": "edb093295a073985",
   "lastOpenFiles": [
     "WELGRAM/CRAWLING/Crawling Memo.md",
+    "WELGRAM/CRAWLING/MANAGER.md",
     "WELGRAM/CRAWLING/SCRUM/scrum_07.md",
     "WELGRAM/CRAWLING/SCRUM/scrum_06.md",
     "WELGRAM/CRAWLING/SCRUM/scrum_08.md",
@@ -216,7 +219,6 @@
     "무제 파일 1.md",
     "무제 파일 2.md",
     "무제 파일.md",
-    "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
     "ABL_CCR_D002.java",
     "WELGRAM",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/자료",
