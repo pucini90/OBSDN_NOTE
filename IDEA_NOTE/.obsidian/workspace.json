@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WELGRAM/CRAWLING/Related Policies.md",
+                "file": "STUDY/006. XPATH.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WELGRAM/CRAWLING/Related Policies.md",
+                "file": "STUDY/006. XPATH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WELGRAM/CRAWLING/Related Policies.md",
+                "file": "STUDY/006. XPATH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WELGRAM/CRAWLING/Related Policies.md"
+                "file": "STUDY/006. XPATH.md"
               }
             }
           },
@@ -182,6 +182,32 @@
   },
   "active": "edb093295a073985",
   "lastOpenFiles": [
+    "STUDY/005. JSON.md",
+    "STUDY/006. XPATH.md",
+    "STUDY/004. PROGRAMMERS.md",
+    "STUDY/003. GIT.md",
+    "STUDY/002_MARKDOWN.md",
+    "STUDY/001_OBSIDIAN.md",
+    "PRIVATE/최우진.md",
+    "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/02. ASIS.md",
+    "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/자료/Pasted image 20231018111313.png",
+    "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/01. 프로젝트 구성.md",
+    "자료/Pasted image 20230926151901.png",
+    "자료/Pasted image 20230926151758.png",
+    "자료/Pasted image 20230926151708.png",
+    "자료/Pasted Image 20230925002753_813.jpg",
+    "자료/image (19).png",
+    "자료/image (1).png",
+    "자료/Drawing 2023-11-08 19.56.37.excalidraw.md",
+    "자료/Pasted image 20231215115549.png",
+    "자료/Pasted image 20231215115201.png",
+    "자료/Pasted image 20231215115016.png",
+    "WELGRAM/PROJECT/TF/아이디어 제안 01.md",
+    "WELGRAM/CRAWLING/COLLEAGUE/노우정.md",
+    "WELGRAM/CRAWLING/Related Policies.md",
+    "Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
+    "WELGRAM/CRAWLING/SCRUM/SCRUM_015.md",
     "WELGRAM/CRAWLING/Crawling Memo.md",
     "WELGRAM/CRAWLING/MANAGER.md",
     "WELGRAM/CRAWLING/SCRUM/scrum_07.md",
@@ -192,33 +218,7 @@
     "WELGRAM/CRAWLING/SCRUM/scrum_03.md",
     "WELGRAM/CRAWLING/SCRUM/scrum_02.md",
     "WELGRAM/CRAWLING/SCRUM/scrum_01.md",
-    "WELGRAM/CRAWLING/SCRUM/scrum_013.md",
-    "WELGRAM/CRAWLING/SCRUM/scrum_011.md",
-    "WELGRAM/CRAWLING/SCRUM/SCRUM_014.md",
-    "WELGRAM/CRAWLING/SCRUM/SCRUM_015.md",
-    "WELGRAM/CRAWLING/Related Policies.md",
-    "WELGRAM/PROJECT/TF/아이디어 제안 01.md",
-    "Pasted image 20231215115016.png",
-    "Pasted image 20231215115549.png",
-    "Pasted image 20231215115201.png",
     "WELGRAM/PROJECT/TF",
-    "WELGRAM/CRAWLING/IDEA/IDEA001_크롤링 개선 아이디어 (개인).md",
-    "WELGRAM/CRAWLING/IDEA/크롤링 방식 변경_02.md",
-    "WELGRAM/CRAWLING/IDEA/크롤링 방식 변경_01.md",
-    "WELGRAM/CRAWLING/IDEA/선택특약의 보험기간, 납입기간 표기기능 추가.md",
-    "WELGRAM/CRAWLING/IDEA/2023 4분기 크롤링 시스템 개선.md",
-    "자료/Drawing 2023-11-08 19.56.37.excalidraw.md",
-    "해약정보 삭제기능.md",
-    "자료/image (20).png",
-    "자료/image (19).png",
-    "자료/image (1).png",
-    "자료/Pasted image 20231205104250.png",
-    "자료/Pasted image 20231204190337.png",
-    "자료/Pasted image 20231204111557.png",
-    "자료/Pasted image 20231204111502.png",
-    "무제 파일 1.md",
-    "무제 파일 2.md",
-    "무제 파일.md",
     "ABL_CCR_D002.java",
     "WELGRAM",
     "WELGRAM/PROJECT/SIDE/01_P_CRAWLER/자료",
