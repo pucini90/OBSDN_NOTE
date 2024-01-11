@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WELGRAM/CRAWLING/SCRUM/SCRUM_015.md",
+                "file": "WELGRAM/CRAWLING/Related Policies.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STUDY/006. XPATH.md",
+                "file": "WELGRAM/CRAWLING/Related Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STUDY/006. XPATH.md",
+                "file": "WELGRAM/CRAWLING/Related Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STUDY/006. XPATH.md"
+                "file": "WELGRAM/CRAWLING/Related Policies.md"
               }
             }
           },
@@ -180,10 +179,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "edb093295a073985",
+  "active": "17ce5390d0b28af8",
   "lastOpenFiles": [
-    "STUDY/005. JSON.md",
+    "WELGRAM/CRAWLING/SCRUM/SCRUM_015.md",
     "STUDY/006. XPATH.md",
+    "STUDY/005. JSON.md",
     "STUDY/004. PROGRAMMERS.md",
     "STUDY/003. GIT.md",
     "STUDY/002_MARKDOWN.md",
@@ -207,7 +207,6 @@
     "WELGRAM/CRAWLING/Related Policies.md",
     "Excalidraw/Drawing 2023-09-28 18.16.27.excalidraw.md",
     "Excalidraw/Drawing 2023-09-25 00.24.23.excalidraw.md",
-    "WELGRAM/CRAWLING/SCRUM/SCRUM_015.md",
     "WELGRAM/CRAWLING/Crawling Memo.md",
     "WELGRAM/CRAWLING/MANAGER.md",
     "WELGRAM/CRAWLING/SCRUM/scrum_07.md",
