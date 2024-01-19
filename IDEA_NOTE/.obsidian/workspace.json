@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#excalidraw :excalidraw ",
+                "query": "현재",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,11 +85,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 322.5
   },
   "right": {
     "id": "38a1719c1990818b",
@@ -179,7 +180,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "17ce5390d0b28af8",
+  "active": "959af7c225ffb020",
   "lastOpenFiles": [
     "WELGRAM/CRAWLING/SCRUM/SCRUM_015.md",
     "STUDY/006. XPATH.md",
